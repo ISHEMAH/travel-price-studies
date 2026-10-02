@@ -35,10 +35,29 @@ Data: [`data/hotels-booking-site-prices-2026-10-02.csv`](data/hotels-booking-sit
 
 Data: [`data/flights-cheapest-fare-by-day-2026-10-02.csv`](data/flights-cheapest-fare-by-day-2026-10-02.csv), one row per route × day, with Google's price level and typical range.
 
+## 3. How do the big travel brands advertise on Google? (collected 2 Oct 2026)
+![Distinct Google ads shown in the US in 30 days](charts/ads-volume.png)
+
+- **What:** Google Ads Transparency Center counts for 8 travel websites. Ads shown in the US from 2 Sep to 2 Oct 2026, broken down by platform and format, plus the first 400 ads Google lists for each brand.
+- **Result: Booking.com showed ~300k–400k distinct ads, about 40× Expedia (8k–9k).** Tripadvisor and Priceline were at 100k–200k each, Kayak 50k–60k, Airbnb 30k–40k, Vrbo 9k–10k and Hotels.com 1k–2k.
+- **Formats:** Booking.com is almost entirely text (Search) ads: **29 video ads**, against Expedia's **2k–3k**. Priceline showed no video ads.
+- **Google Maps:** Booking.com 20k–30k ads, Priceline 8k–9k, Tripadvisor 4k–5k, Kayak 0.
+- **Shopping and Play:** 25 Shopping ads or fewer per brand, and 0 Google Play ads.
+- **New creative:** among the first 400 ads Google lists for each brand, the number first shown in the last 30 days was Vrbo 84, Hotels.com 71, Expedia 58, Priceline 21, Airbnb 4, Booking.com 1, Tripadvisor 1 and Kayak 0.
+- **Files:**
+  - `data/google-ads-travel-brands-us-2026-10-02.csv`: Google's count ranges per brand × platform/format.
+  - `data/google-ads-travel-brands-us-sample-2026-10-02.csv`: 3,200 ad records with advertiser, ad ID, format, first and last shown, and a link.
+
+**Caveats:**
+- Counts are Google's own **ranges** of distinct ad creatives, not impressions or spend.
+- "YouTube" as a platform includes text ads shown in YouTube search.
+- The 400-ad samples follow Google's listing order, so they are not random.
+
 ## How the data was collected
 *Disclosure: I built both tools.*
 - Hotels: [Google Hotels Scraper on Apify](https://apify.com/kuezi/google-hotels-scraper), with `includeVendorPrices: true`.
 - Flights: [Google Flights Scraper on Apify](https://apify.com/kuezi/google-flights-scraper), with a `scanDepartureUntil` date range.
+- Ads: [Google Ads Transparency Scraper on Apify](https://apify.com/kuezi/google-ads-transparency-scraper), with `country: US`, `lastDays: 30` and per-platform/format filters.
 - Trend data for future studies: [Google Trends Scraper on Apify](https://apify.com/kuezi/google-trends-scraper).
 
 Booking links were removed from the public data because they contain ad-tracking parameters.
