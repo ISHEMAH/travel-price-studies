@@ -30,6 +30,10 @@ Data: [`data/hotels-booking-site-prices-2026-10-02.csv`](data/hotels-booking-sit
 - Wrong day vs right day: SFO→HNL $163 vs $444 (+172%); JFK→LAX $184 vs $489 (+166%).
 - The Sunday after Thanksgiving (29 Nov) was the priciest day of the month on JFK→LAX and ORD→MIA.
 - Google labelled LHR→JFK prices "low" on 21 of 30 days.
+- **Robustness check (suggested by a reader):** dropping the Thanksgiving window and using **1–19 Nov only** gives Mon −5.2%, Tue −2.8%, Wed +2.1%, Thu +10.2%, **Fri +13.9%**, Sat +7.6%, Sun +5.2%.
+  - The holiday inflates the headline: Friday falls from +19.7% and Sunday from +12.7%.
+  - Monday edges out Tuesday as the cheapest day.
+  - Friday is still the priciest, but on only 2 Fridays × 5 routes.
 
 **Caveats:** 5 routes, one month that includes US Thanksgiving, prices seen on one day.
 
