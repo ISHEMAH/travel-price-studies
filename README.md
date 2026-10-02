@@ -57,6 +57,14 @@ Data: [`data/flights-cheapest-fare-by-day-2026-10-02.csv`](data/flights-cheapest
 - "YouTube" as a platform includes text ads shown in YouTube search.
 - The 400-ad samples follow Google's listing order, so they are not random.
 
+## Run these studies yourself
+One-click setups on Apify (change the city, route or brand to your own):
+- [Compare a hotel's price on Booking, Expedia & 20+ other sites](https://apify.com/kuezi/google-hotels-scraper/examples/compare-hotel-prices-across-booking-sites)
+- [Find the cheapest day to fly on any route](https://apify.com/kuezi/google-flights-scraper/examples/find-cheapest-day-to-fly)
+- [Get Google's price insights for a route (low, typical, high)](https://apify.com/kuezi/google-flights-scraper/examples/google-flights-price-insights)
+- [See every Google ad a competitor runs in the US](https://apify.com/kuezi/google-ads-transparency-scraper/examples/competitor-google-ads-us)
+- [Download a brand's YouTube video ads with links](https://apify.com/kuezi/google-ads-transparency-scraper/examples/youtube-video-ads-of-a-brand)
+
 ## How the data was collected
 *Disclosure: I built both tools.*
 - Hotels: [Google Hotels Scraper on Apify](https://apify.com/kuezi/google-hotels-scraper), with `includeVendorPrices: true`.
