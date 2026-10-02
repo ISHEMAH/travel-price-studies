@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" font-family="Helvetica, Arial, sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1E1B4B"/><stop offset="1" stop-color="#0F766E"/></linearGradient></defs>
+<rect width="1000" height="420" fill="url(#g)"/>
+<text x="56" y="92" font-size="44" font-weight="800" fill="#FFFFFF">Same hotel. Same dates.</text>
+<text x="56" y="148" font-size="44" font-weight="800" fill="#FDE68A">Big sites cost ~26% more.</text>
+<text x="56" y="192" font-size="20" fill="#E5E7EB">Same stay priced at $100 on the cheapest site · 47 hotels · 5 cities · open data</text>
+<text x="56" y="258" font-size="20" fill="#FFFFFF">Cheapest site</text>
+<rect x="230" y="238" width="440" height="28" rx="6" fill="#FDE68A" opacity="1"/>
+<text x="682" y="260" font-size="20" font-weight="700" fill="#FFFFFF">$100</text>
+<text x="56" y="300" font-size="20" fill="#FFFFFF">Hotels.com</text>
+<rect x="230" y="280" width="554" height="28" rx="6" fill="#FFFFFF" opacity="0.92"/>
+<text x="796" y="302" font-size="20" font-weight="700" fill="#FFFFFF">$126</text>
+<text x="56" y="342" font-size="20" fill="#FFFFFF">Expedia</text>
+<rect x="230" y="322" width="556" height="28" rx="6" fill="#FFFFFF" opacity="0.92"/>
+<text x="798" y="344" font-size="20" font-weight="700" fill="#FFFFFF">$126</text>
+<text x="56" y="384" font-size="20" fill="#FFFFFF">Booking.com</text>
+<rect x="230" y="364" width="560" height="28" rx="6" fill="#FFFFFF" opacity="0.92"/>
+<text x="802" y="386" font-size="20" font-weight="700" fill="#FFFFFF">$127</text>
+</svg>
