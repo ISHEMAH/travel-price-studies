@@ -20,6 +20,11 @@ Everything here can be re-run with `python3 analysis.py`. **Data: CC BY 4.0. Cod
 - Smaller sites can have stricter cancellation terms, member-only rates or fees added at checkout.
 - One stay window, one collection day.
 
+**Robustness checks (3 Oct 2026, after a reader's questions):**
+- *Is the premium just a "minimum of many quotes" effect?* No. The Booking.com premium doesn't rise with the number of listed sites: correlation 0.01 (Expedia −0.08, Hotels.com −0.08). Hotels with 26 or fewer sites show +39.7%, hotels with more show +28.3%.
+- *Against the median site instead of the cheapest:* Booking.com +3.9% mean / 0.0% median, Expedia +1.6% / 0.0%, Hotels.com +0.8% / 0.0%. **The big brands price at the typical level. The gap comes from one or two small sites undercutting everyone,** so check the cheapest site, but don't read this as "big brands overcharge".
+- Cancellation terms weren't captured, so part of the cheapest-site gap may be non-refundable or member-only rates. The next run records them.
+
 Data: [`data/hotels-booking-site-prices-2026-10-02.csv`](data/hotels-booking-site-prices-2026-10-02.csv), one row per hotel × site.
 
 ## 2. What's the cheapest day to fly? (prices seen 2 Oct 2026)
