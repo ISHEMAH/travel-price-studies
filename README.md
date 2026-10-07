@@ -25,6 +25,15 @@ Everything here can be re-run with `python3 analysis.py`. **Data: CC BY 4.0. Cod
 - *Against the median site instead of the cheapest:* Booking.com +3.9% mean / 0.0% median, Expedia +1.6% / 0.0%, Hotels.com +0.8% / 0.0%. **The big brands price at the typical level. The gap comes from one or two small sites undercutting everyone,** so check the cheapest site, but don't read this as "big brands overcharge".
 - Cancellation terms weren't captured, so part of the cheapest-site gap may be non-refundable or member-only rates. The next run records them.
 
+**Pre-registered test (written 7 Oct 2026, before the 9 Oct pull):**
+A reader asked whether the three small sites that were cheapest on 2 Oct keep their edge on fresh data. So that nobody can pick the sites after seeing the new pull, the picks and the method are fixed here now, in [`preregistered_test.py`](preregistered_test.py):
+- Fixed picks: **Super.com, Traveluro, Vio.com**. They were chosen from the 2 Oct data, so the 2 Oct numbers are in-sample.
+- Baseline per hotel: the cheapest big-brand price (Booking.com, Expedia, Hotels.com, Orbitz, Travelocity, CheapTickets, Priceline, Agoda, Trip.com). Eligible hotels have at least one big-brand price and three or more smaller sites. A hotel where a pick isn't listed counts as 0 saving.
+- In-sample, 2 Oct (45 hotels, full gap 16.2%): Super.com 5.8% (36% of the gap); + Traveluro 10.1% (62%); + Vio.com 12.3% (76%).
+- Pass criterion: the three picks capture **more than 50% of the full gap** on the 9 Oct pull, and again on 16 Oct.
+- Persistence: the share of hotels whose cheapest site is the same on 2 and 9 Oct, against a chance baseline from shuffling site labels within each hotel (10,000 shuffles, ties count as a match).
+- The results will be added here after each pull, whatever they show.
+
 Data: [`data/hotels-booking-site-prices-2026-10-02.csv`](data/hotels-booking-site-prices-2026-10-02.csv), one row per hotel × site.
 
 ## 2. What's the cheapest day to fly? (prices seen 2 Oct 2026)
