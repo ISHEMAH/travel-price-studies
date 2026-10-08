@@ -32,6 +32,12 @@ A reader asked whether the three small sites that were cheapest on 2 Oct keep th
 - In-sample, 2 Oct (45 hotels, full gap 16.2%): Super.com 5.8% (36% of the gap); + Traveluro 10.1% (62%); + Vio.com 12.3% (76%).
 - Pass criterion: the three picks capture **more than 50% of the full gap** on the 9 Oct pull, and again on 16 Oct.
 - Persistence: the share of hotels whose cheapest site is the same on 2 and 9 Oct, against a chance baseline from shuffling site labels within each hotel (10,000 shuffles, ties count as a match).
+- **Added 8 Oct, still before the 9 Oct pull** (reader follow-up):
+  - The full gap is the mean of per-hotel percentages. `python3 preregistered_test.py <csv> --dump` writes the per-hotel baseline, best small-site price and best pick price ([2 Oct dump](data/hotels-booking-site-prices-2026-10-02-per-hotel.csv)).
+  - The capture share gets a 95% bootstrap interval over hotels (10,000 draws, seed 7). In-sample 2 Oct: 76%, interval 65–87%.
+  - Verdict per date: **PASS** only if the interval's lower bound is above 50%; **INCONCLUSIVE** if only the point estimate is; **FAIL** if the point estimate is 50% or below.
+  - Across both dates: the picks "keep most of the gap" only if 9 Oct and 16 Oct both PASS. One PASS and one FAIL means the shortlist isn't stable and the advice stays "compare every site". Any other mix is inconclusive.
+  - Persistence is also reported for hotels where all three picks are listed on both dates (9 hotels qualify on 2 Oct alone, so that subset will be small).
 - The results will be added here after each pull, whatever they show.
 
 Data: [`data/hotels-booking-site-prices-2026-10-02.csv`](data/hotels-booking-site-prices-2026-10-02.csv), one row per hotel × site.

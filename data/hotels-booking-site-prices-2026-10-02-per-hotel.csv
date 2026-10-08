@@ -1,0 +1,46 @@
+city,hotel,big_brand_baseline,best_small_site,best_small_price,gap_pct,best_pick_price,pick_saving_pct,small_sites_listed
+Bangkok,Akara Bangkok,82.0,klook,79.0,3.66,100.0,0.0,15
+Bangkok,Amari Bangkok Hotel,164.0,Traveluro,127.0,22.56,127.0,22.56,17
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,73.0,Traveluro,70.0,4.11,70.0,4.11,14
+Bangkok,Eastin Grand Hotel Phayathai,160.0,klook,141.0,11.88,172.0,0.0,17
+Bangkok,Hotel Royal Bangkok,37.0,klook,34.0,8.11,35.0,5.41,18
+Bangkok,JC Kevin Sathorn Bangkok Hotel,74.0,trivago DEALS,51.0,31.08,52.0,29.73,16
+Bangkok,Lancaster Bangkok,86.0,klook,76.0,11.63,90.0,0.0,19
+Bangkok,The Berkeley Hotel Pratunam,105.0,klook,91.0,13.33,106.0,0.0,15
+Barcelona,Casa Gràcia,115.0,Room Casa Gracia,50.0,56.52,80.0,30.43,18
+Barcelona,Hotel 1898,273.0,Hotel 1898,237.0,13.19,242.0,11.36,17
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,235.0,Traveluro,203.0,13.62,203.0,13.62,21
+Barcelona,Kimpton Vividora Barcelona,284.0,Kiwi.com,234.0,17.61,316.0,0.0,21
+Barcelona,Leonardo Royal Hotel Barcelona Fira,134.0,Traveluro,105.0,21.64,105.0,21.64,18
+Barcelona,Nobu Hotel Barcelona,286.0,Evendo,237.0,17.13,240.0,16.08,21
+Barcelona,Petit Palace Boqueria Garden,184.0,Vio.com,171.0,7.07,171.0,7.07,15
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",221.0,Radissonhotels.com,188.0,14.93,195.0,11.76,18
+Barcelona,The One Barcelona,334.0,The One Barcelona,279.0,16.47,315.0,5.69,20
+London,Canopy by Hilton London City,241.0,Traveluro,228.0,5.39,228.0,5.39,18
+London,Grand Royale Hyde Park,165.0,Kiwi.com,138.0,16.36,156.0,5.45,17
+London,Park Plaza London Westminster Bridge,310.0,Super.com,218.0,29.68,218.0,29.68,21
+London,Premier Inn London Tolworth hotel,69.0,Premierinn.com,55.0,20.29,56.0,18.84,8
+London,"Shangri-La The Shard, London",651.0,Super.com,559.0,14.13,559.0,14.13,21
+London,"St. James' Court, A Taj Hotel, London",294.0,Super.com,267.0,9.18,267.0,9.18,18
+London,The Bailey’s Hotel London,236.0,Super.com,186.0,21.19,186.0,21.19,18
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",354.0,Super.com,298.0,15.82,298.0,15.82,20
+London,"The Tower Hotel, by Thistle",186.0,Super.com,156.0,16.13,156.0,16.13,18
+London,a&o London Docklands Riverside,52.0,aohostels.com,44.0,15.38,108.0,0.0,8
+New York,Arlo NoMad,359.0,Super.com,298.0,16.99,298.0,16.99,23
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,170.0,trivago DEALS,138.0,18.82,170.0,0.0,19
+New York,Crowne Plaza Englewood by IHG,143.0,Vio.com,113.0,20.98,113.0,20.98,20
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,179.0,Traveluro,126.0,29.61,126.0,29.61,21
+New York,Hotel Executive Suites,118.0,Vio.com,105.0,11.02,105.0,11.02,18
+New York,Hyatt Grand Central New York,360.0,Traveluro,310.0,13.89,310.0,13.89,21
+New York,LY New York Hotel,176.0,Super.com,148.0,15.91,148.0,15.91,11
+New York,Margaritaville Resort Times Square,399.0,Vio.com,307.0,23.06,307.0,23.06,22
+New York,The One Boutique Hotel,130.0,Super.com,129.0,0.77,129.0,0.77,20
+Paris,Aparthotel Adagio Access Paris Maisons-Alfort,53.0,Vio.com,49.0,7.55,49.0,7.55,10
+Paris,Crowne Plaza Paris - Republique by IHG,195.0,goseek.com,163.0,16.41,216.0,0.0,17
+Paris,Grand Hotel Lafayette,195.0,Vio.com,190.0,2.56,190.0,2.56,13
+Paris,Hyatt Regency Paris Étoile,279.0,Kiwi.com,211.0,24.37,223.0,20.07,22
+Paris,Hôtel Atrium by HappyCulture,91.0,Vio.com,71.0,21.98,71.0,21.98,11
+Paris,La Maison Favart,279.0,Vio.com,255.0,8.6,255.0,8.6,12
+Paris,Le Grand Quartier,188.0,Traveluro,143.0,23.94,143.0,23.94,11
+Paris,OKKO Hotels Paris Gare de l'Est,141.0,Traveluro,117.0,17.02,117.0,17.02,21
+Paris,Oden Hôtel Paris Ivry,78.0,Vio.com,73.0,6.41,73.0,6.41,10
