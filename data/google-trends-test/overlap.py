@@ -1,5 +1,5 @@
 """Overlap of the python related-query lists pulled on 13 Oct 2026 (website x2, plain fetch x2, Actor).
-python3 overlap.py"""
+cd data/google-trends-test && python3 overlap.py"""
 import itertools, json
 L = json.load(open("related-queries-python-lists.json"))
 actor = json.load(open("actor-compare-run-kzNBW4s7b2i2eosO5.json"))[0]["relatedQueries"]
