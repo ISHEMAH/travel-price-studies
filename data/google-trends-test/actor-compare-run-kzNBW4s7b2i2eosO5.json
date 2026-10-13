@@ -1,0 +1,4786 @@
+[
+ {
+  "keyword": "python",
+  "status": "ok",
+  "geo": "US",
+  "timeRange": "today 12-m",
+  "category": 0,
+  "searchType": "web",
+  "scale": "shared",
+  "comparisonGroup": [
+   "python",
+   "javascript",
+   "rust",
+   "typescript",
+   "golang"
+  ],
+  "hasData": true,
+  "pointCount": 53,
+  "average": 62.5,
+  "latestValue": 37,
+  "latestDate": "2026-10-04T00:00:00.000Z",
+  "peakValue": 100,
+  "peakDate": "2026-06-14T00:00:00.000Z",
+  "recentChangePct": 7.7,
+  "recentWindowPoints": 4,
+  "trendChangePct": -16.9,
+  "direction": "falling",
+  "yearOverYearChangePct": null,
+  "peakMonth": null,
+  "seasonalityStrength": null,
+  "volatility": 0.25,
+  "zeroShare": 0,
+  "topRegion": "Wyoming",
+  "breakoutQueries": [
+   "walmart near me",
+   "lidl near me",
+   "python swallowing deer india",
+   "carpet python and huntsman indoors",
+   "fitness workout plan",
+   "\u8001\u864e",
+   "singapore reticulated python sighting"
+  ],
+  "topRisingQuery": "walmart near me",
+  "trendsUrl": "https://trends.google.com/trends/explore?date=today+12-m&q=python%2Cjavascript%2Crust%2Ctypescript%2Cgolang&geo=US",
+  "interestOverTime": [
+   {
+    "date": "2025-10-12T00:00:00.000Z",
+    "formattedTime": "Oct 12\u2009\u2013\u200918, 2025",
+    "value": 60,
+    "isPartial": false
+   },
+   {
+    "date": "2025-10-19T00:00:00.000Z",
+    "formattedTime": "Oct 19\u2009\u2013\u200925, 2025",
+    "value": 57,
+    "isPartial": false
+   },
+   {
+    "date": "2025-10-26T00:00:00.000Z",
+    "formattedTime": "Oct 26\u2009\u2013\u2009Nov 1, 2025",
+    "value": 60,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-02T00:00:00.000Z",
+    "formattedTime": "Nov 2\u2009\u2013\u20098, 2025",
+    "value": 66,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-09T00:00:00.000Z",
+    "formattedTime": "Nov 9\u2009\u2013\u200915, 2025",
+    "value": 64,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-16T00:00:00.000Z",
+    "formattedTime": "Nov 16\u2009\u2013\u200922, 2025",
+    "value": 61,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-23T00:00:00.000Z",
+    "formattedTime": "Nov 23\u2009\u2013\u200929, 2025",
+    "value": 46,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-30T00:00:00.000Z",
+    "formattedTime": "Nov 30\u2009\u2013\u2009Dec 6, 2025",
+    "value": 58,
+    "isPartial": false
+   },
+   {
+    "date": "2025-12-07T00:00:00.000Z",
+    "formattedTime": "Dec 7\u2009\u2013\u200913, 2025",
+    "value": 55,
+    "isPartial": false
+   },
+   {
+    "date": "2025-12-14T00:00:00.000Z",
+    "formattedTime": "Dec 14\u2009\u2013\u200920, 2025",
+    "value": 58,
+    "isPartial": false
+   },
+   {
+    "date": "2025-12-21T00:00:00.000Z",
+    "formattedTime": "Dec 21\u2009\u2013\u200927, 2025",
+    "value": 40,
+    "isPartial": false
+   },
+   {
+    "date": "2025-12-28T00:00:00.000Z",
+    "formattedTime": "Dec 28, 2025\u2009\u2013\u2009Jan 3, 2026",
+    "value": 45,
+    "isPartial": false
+   },
+   {
+    "date": "2026-01-04T00:00:00.000Z",
+    "formattedTime": "Jan 4\u2009\u2013\u200910, 2026",
+    "value": 57,
+    "isPartial": false
+   },
+   {
+    "date": "2026-01-11T00:00:00.000Z",
+    "formattedTime": "Jan 11\u2009\u2013\u200917, 2026",
+    "value": 59,
+    "isPartial": false
+   },
+   {
+    "date": "2026-01-18T00:00:00.000Z",
+    "formattedTime": "Jan 18\u2009\u2013\u200924, 2026",
+    "value": 64,
+    "isPartial": false
+   },
+   {
+    "date": "2026-01-25T00:00:00.000Z",
+    "formattedTime": "Jan 25\u2009\u2013\u200931, 2026",
+    "value": 70,
+    "isPartial": false
+   },
+   {
+    "date": "2026-02-01T00:00:00.000Z",
+    "formattedTime": "Feb 1\u2009\u2013\u20097, 2026",
+    "value": 71,
+    "isPartial": false
+   },
+   {
+    "date": "2026-02-08T00:00:00.000Z",
+    "formattedTime": "Feb 8\u2009\u2013\u200914, 2026",
+    "value": 70,
+    "isPartial": false
+   },
+   {
+    "date": "2026-02-15T00:00:00.000Z",
+    "formattedTime": "Feb 15\u2009\u2013\u200921, 2026",
+    "value": 80,
+    "isPartial": false
+   },
+   {
+    "date": "2026-02-22T00:00:00.000Z",
+    "formattedTime": "Feb 22\u2009\u2013\u200928, 2026",
+    "value": 81,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-01T00:00:00.000Z",
+    "formattedTime": "Mar 1\u2009\u2013\u20097, 2026",
+    "value": 72,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-08T00:00:00.000Z",
+    "formattedTime": "Mar 8\u2009\u2013\u200914, 2026",
+    "value": 63,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-15T00:00:00.000Z",
+    "formattedTime": "Mar 15\u2009\u2013\u200921, 2026",
+    "value": 69,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-22T00:00:00.000Z",
+    "formattedTime": "Mar 22\u2009\u2013\u200928, 2026",
+    "value": 78,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-29T00:00:00.000Z",
+    "formattedTime": "Mar 29\u2009\u2013\u2009Apr 4, 2026",
+    "value": 81,
+    "isPartial": false
+   },
+   {
+    "date": "2026-04-05T00:00:00.000Z",
+    "formattedTime": "Apr 5\u2009\u2013\u200911, 2026",
+    "value": 78,
+    "isPartial": false
+   },
+   {
+    "date": "2026-04-12T00:00:00.000Z",
+    "formattedTime": "Apr 12\u2009\u2013\u200918, 2026",
+    "value": 76,
+    "isPartial": false
+   },
+   {
+    "date": "2026-04-19T00:00:00.000Z",
+    "formattedTime": "Apr 19\u2009\u2013\u200925, 2026",
+    "value": 66,
+    "isPartial": false
+   },
+   {
+    "date": "2026-04-26T00:00:00.000Z",
+    "formattedTime": "Apr 26\u2009\u2013\u2009May 2, 2026",
+    "value": 71,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-03T00:00:00.000Z",
+    "formattedTime": "May 3\u2009\u2013\u20099, 2026",
+    "value": 67,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-10T00:00:00.000Z",
+    "formattedTime": "May 10\u2009\u2013\u200916, 2026",
+    "value": 68,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-17T00:00:00.000Z",
+    "formattedTime": "May 17\u2009\u2013\u200923, 2026",
+    "value": 67,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-24T00:00:00.000Z",
+    "formattedTime": "May 24\u2009\u2013\u200930, 2026",
+    "value": 79,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-31T00:00:00.000Z",
+    "formattedTime": "May 31\u2009\u2013\u2009Jun 6, 2026",
+    "value": 87,
+    "isPartial": false
+   },
+   {
+    "date": "2026-06-07T00:00:00.000Z",
+    "formattedTime": "Jun 7\u2009\u2013\u200913, 2026",
+    "value": 95,
+    "isPartial": false
+   },
+   {
+    "date": "2026-06-14T00:00:00.000Z",
+    "formattedTime": "Jun 14\u2009\u2013\u200920, 2026",
+    "value": 100,
+    "isPartial": false
+   },
+   {
+    "date": "2026-06-21T00:00:00.000Z",
+    "formattedTime": "Jun 21\u2009\u2013\u200927, 2026",
+    "value": 95,
+    "isPartial": false
+   },
+   {
+    "date": "2026-06-28T00:00:00.000Z",
+    "formattedTime": "Jun 28\u2009\u2013\u2009Jul 4, 2026",
+    "value": 73,
+    "isPartial": false
+   },
+   {
+    "date": "2026-07-05T00:00:00.000Z",
+    "formattedTime": "Jul 5\u2009\u2013\u200911, 2026",
+    "value": 72,
+    "isPartial": false
+   },
+   {
+    "date": "2026-07-12T00:00:00.000Z",
+    "formattedTime": "Jul 12\u2009\u2013\u200918, 2026",
+    "value": 57,
+    "isPartial": false
+   },
+   {
+    "date": "2026-07-19T00:00:00.000Z",
+    "formattedTime": "Jul 19\u2009\u2013\u200925, 2026",
+    "value": 47,
+    "isPartial": false
+   },
+   {
+    "date": "2026-07-26T00:00:00.000Z",
+    "formattedTime": "Jul 26\u2009\u2013\u2009Aug 1, 2026",
+    "value": 42,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-02T00:00:00.000Z",
+    "formattedTime": "Aug 2\u2009\u2013\u20098, 2026",
+    "value": 56,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-09T00:00:00.000Z",
+    "formattedTime": "Aug 9\u2009\u2013\u200915, 2026",
+    "value": 45,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-16T00:00:00.000Z",
+    "formattedTime": "Aug 16\u2009\u2013\u200922, 2026",
+    "value": 39,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-23T00:00:00.000Z",
+    "formattedTime": "Aug 23\u2009\u2013\u200929, 2026",
+    "value": 40,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-30T00:00:00.000Z",
+    "formattedTime": "Aug 30\u2009\u2013\u2009Sep 5, 2026",
+    "value": 40,
+    "isPartial": false
+   },
+   {
+    "date": "2026-09-06T00:00:00.000Z",
+    "formattedTime": "Sep 6\u2009\u2013\u200912, 2026",
+    "value": 37,
+    "isPartial": false
+   },
+   {
+    "date": "2026-09-13T00:00:00.000Z",
+    "formattedTime": "Sep 13\u2009\u2013\u200919, 2026",
+    "value": 43,
+    "isPartial": false
+   },
+   {
+    "date": "2026-09-20T00:00:00.000Z",
+    "formattedTime": "Sep 20\u2009\u2013\u200926, 2026",
+    "value": 46,
+    "isPartial": false
+   },
+   {
+    "date": "2026-09-27T00:00:00.000Z",
+    "formattedTime": "Sep 27\u2009\u2013\u2009Oct 3, 2026",
+    "value": 42,
+    "isPartial": false
+   },
+   {
+    "date": "2026-10-04T00:00:00.000Z",
+    "formattedTime": "Oct 4\u2009\u2013\u200910, 2026",
+    "value": 37,
+    "isPartial": false
+   },
+   {
+    "date": "2026-10-11T00:00:00.000Z",
+    "formattedTime": "Oct 11\u2009\u2013\u200917, 2026",
+    "value": 33,
+    "isPartial": true
+   }
+  ],
+  "interestByRegion": [
+   {
+    "geoCode": "US-WY",
+    "geoName": "Wyoming",
+    "value": 100
+   },
+   {
+    "geoCode": "US-KS",
+    "geoName": "Kansas",
+    "value": 35
+   },
+   {
+    "geoCode": "US-DC",
+    "geoName": "District of Columbia",
+    "value": 27
+   },
+   {
+    "geoCode": "US-MA",
+    "geoName": "Massachusetts",
+    "value": 24
+   },
+   {
+    "geoCode": "US-CA",
+    "geoName": "California",
+    "value": 24
+   },
+   {
+    "geoCode": "US-VA",
+    "geoName": "Virginia",
+    "value": 22
+   },
+   {
+    "geoCode": "US-MD",
+    "geoName": "Maryland",
+    "value": 22
+   },
+   {
+    "geoCode": "US-WA",
+    "geoName": "Washington",
+    "value": 22
+   },
+   {
+    "geoCode": "US-NY",
+    "geoName": "New York",
+    "value": 20
+   },
+   {
+    "geoCode": "US-CO",
+    "geoName": "Colorado",
+    "value": 20
+   },
+   {
+    "geoCode": "US-UT",
+    "geoName": "Utah",
+    "value": 18
+   },
+   {
+    "geoCode": "US-IL",
+    "geoName": "Illinois",
+    "value": 16
+   },
+   {
+    "geoCode": "US-GA",
+    "geoName": "Georgia",
+    "value": 16
+   },
+   {
+    "geoCode": "US-NM",
+    "geoName": "New Mexico",
+    "value": 16
+   },
+   {
+    "geoCode": "US-OR",
+    "geoName": "Oregon",
+    "value": 16
+   },
+   {
+    "geoCode": "US-TX",
+    "geoName": "Texas",
+    "value": 15
+   },
+   {
+    "geoCode": "US-NJ",
+    "geoName": "New Jersey",
+    "value": 15
+   },
+   {
+    "geoCode": "US-PA",
+    "geoName": "Pennsylvania",
+    "value": 15
+   },
+   {
+    "geoCode": "US-NC",
+    "geoName": "North Carolina",
+    "value": 14
+   },
+   {
+    "geoCode": "US-NH",
+    "geoName": "New Hampshire",
+    "value": 14
+   },
+   {
+    "geoCode": "US-CT",
+    "geoName": "Connecticut",
+    "value": 14
+   },
+   {
+    "geoCode": "US-AZ",
+    "geoName": "Arizona",
+    "value": 13
+   },
+   {
+    "geoCode": "US-FL",
+    "geoName": "Florida",
+    "value": 13
+   },
+   {
+    "geoCode": "US-MO",
+    "geoName": "Missouri",
+    "value": 13
+   },
+   {
+    "geoCode": "US-TN",
+    "geoName": "Tennessee",
+    "value": 13
+   },
+   {
+    "geoCode": "US-AL",
+    "geoName": "Alabama",
+    "value": 12
+   },
+   {
+    "geoCode": "US-OH",
+    "geoName": "Ohio",
+    "value": 12
+   },
+   {
+    "geoCode": "US-IN",
+    "geoName": "Indiana",
+    "value": 12
+   },
+   {
+    "geoCode": "US-MN",
+    "geoName": "Minnesota",
+    "value": 12
+   },
+   {
+    "geoCode": "US-RI",
+    "geoName": "Rhode Island",
+    "value": 12
+   },
+   {
+    "geoCode": "US-MI",
+    "geoName": "Michigan",
+    "value": 12
+   },
+   {
+    "geoCode": "US-VT",
+    "geoName": "Vermont",
+    "value": 12
+   },
+   {
+    "geoCode": "US-NV",
+    "geoName": "Nevada",
+    "value": 12
+   },
+   {
+    "geoCode": "US-LA",
+    "geoName": "Louisiana",
+    "value": 12
+   },
+   {
+    "geoCode": "US-IA",
+    "geoName": "Iowa",
+    "value": 11
+   },
+   {
+    "geoCode": "US-AR",
+    "geoName": "Arkansas",
+    "value": 11
+   },
+   {
+    "geoCode": "US-OK",
+    "geoName": "Oklahoma",
+    "value": 11
+   },
+   {
+    "geoCode": "US-DE",
+    "geoName": "Delaware",
+    "value": 11
+   },
+   {
+    "geoCode": "US-WI",
+    "geoName": "Wisconsin",
+    "value": 11
+   },
+   {
+    "geoCode": "US-MS",
+    "geoName": "Mississippi",
+    "value": 11
+   },
+   {
+    "geoCode": "US-SC",
+    "geoName": "South Carolina",
+    "value": 11
+   },
+   {
+    "geoCode": "US-KY",
+    "geoName": "Kentucky",
+    "value": 11
+   },
+   {
+    "geoCode": "US-ID",
+    "geoName": "Idaho",
+    "value": 11
+   },
+   {
+    "geoCode": "US-NE",
+    "geoName": "Nebraska",
+    "value": 10
+   },
+   {
+    "geoCode": "US-WV",
+    "geoName": "West Virginia",
+    "value": 9
+   },
+   {
+    "geoCode": "US-ME",
+    "geoName": "Maine",
+    "value": 9
+   },
+   {
+    "geoCode": "US-MT",
+    "geoName": "Montana",
+    "value": 9
+   },
+   {
+    "geoCode": "US-HI",
+    "geoName": "Hawaii",
+    "value": 8
+   },
+   {
+    "geoCode": "US-SD",
+    "geoName": "South Dakota",
+    "value": 8
+   },
+   {
+    "geoCode": "US-AK",
+    "geoName": "Alaska",
+    "value": 8
+   },
+   {
+    "geoCode": "US-ND",
+    "geoName": "North Dakota",
+    "value": 7
+   }
+  ],
+  "relatedQueries": {
+   "top": [
+    {
+     "query": "what is python",
+     "value": 100,
+     "formattedValue": "100",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=what+is+python&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python code",
+     "value": 69,
+     "formattedValue": "69",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python+code&date=today+12-m&geo=US"
+    },
+    {
+     "query": "ball python",
+     "value": 41,
+     "formattedValue": "41",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=ball+python&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python install",
+     "value": 35,
+     "formattedValue": "35",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python+install&date=today+12-m&geo=US"
+    },
+    {
+     "query": "online python",
+     "value": 34,
+     "formattedValue": "34",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=online+python&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python tutorial",
+     "value": 30,
+     "formattedValue": "30",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python+tutorial&date=today+12-m&geo=US"
+    },
+    {
+     "query": "programming python",
+     "value": 28,
+     "formattedValue": "28",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=programming+python&date=today+12-m&geo=US"
+    },
+    {
+     "query": "learn python",
+     "value": 28,
+     "formattedValue": "28",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=learn+python&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python set",
+     "value": 27,
+     "formattedValue": "27",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python+set&date=today+12-m&geo=US"
+    },
+    {
+     "query": "monty python",
+     "value": 26,
+     "formattedValue": "26",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=monty+python&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python download",
+     "value": 24,
+     "formattedValue": "24",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python+download&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python language",
+     "value": 18,
+     "formattedValue": "18",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python+language&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python data analysis",
+     "value": 18,
+     "formattedValue": "18",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python+data+analysis&date=today+12-m&geo=US"
+    },
+    {
+     "query": "how to learn python",
+     "value": 16,
+     "formattedValue": "16",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=how+to+learn+python&date=today+12-m&geo=US"
+    },
+    {
+     "query": "cloud",
+     "value": 15,
+     "formattedValue": "15",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=cloud&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python dictionary",
+     "value": 15,
+     "formattedValue": "15",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python+dictionary&date=today+12-m&geo=US"
+    },
+    {
+     "query": "vs code",
+     "value": 14,
+     "formattedValue": "14",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=vs+code&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python science",
+     "value": 14,
+     "formattedValue": "14",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python+science&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python music",
+     "value": 13,
+     "formattedValue": "13",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python+music&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python range",
+     "value": 13,
+     "formattedValue": "13",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python+range&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python snake",
+     "value": 13,
+     "formattedValue": "13",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python+snake&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python programming tutorial",
+     "value": 13,
+     "formattedValue": "13",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python+programming+tutorial&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python web framework",
+     "value": 13,
+     "formattedValue": "13",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python+web+framework&date=today+12-m&geo=US"
+    },
+    {
+     "query": "learn python for beginners",
+     "value": 7,
+     "formattedValue": "7",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=learn+python+for+beginners&date=today+12-m&geo=US"
+    },
+    {
+     "query": "walmart near me",
+     "value": 6,
+     "formattedValue": "6",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=walmart+near+me&date=today+12-m&geo=US"
+    }
+   ],
+   "rising": [
+    {
+     "query": "walmart near me",
+     "value": 12900,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=walmart+near+me&date=today+12-m&geo=US"
+    },
+    {
+     "query": "lidl near me",
+     "value": 8650,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=lidl+near+me&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python swallowing deer india",
+     "value": 8500,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=python+swallowing+deer+india&date=today+12-m&geo=US"
+    },
+    {
+     "query": "carpet python and huntsman indoors",
+     "value": 6900,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=carpet+python+and+huntsman+indoors&date=today+12-m&geo=US"
+    },
+    {
+     "query": "fitness workout plan",
+     "value": 6550,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=fitness+workout+plan&date=today+12-m&geo=US"
+    },
+    {
+     "query": "\u8001\u864e",
+     "value": 5500,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=%E8%80%81%E8%99%8E&date=today+12-m&geo=US"
+    },
+    {
+     "query": "singapore reticulated python sighting",
+     "value": 5150,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=singapore+reticulated+python+sighting&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python programming tutorial",
+     "value": 4400,
+     "formattedValue": "+4,400%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python+programming+tutorial&date=today+12-m&geo=US"
+    },
+    {
+     "query": "buy laptop online",
+     "value": 4250,
+     "formattedValue": "+4,250%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=buy+laptop+online&date=today+12-m&geo=US"
+    },
+    {
+     "query": "best restaurants near me",
+     "value": 4200,
+     "formattedValue": "+4,200%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=best+restaurants+near+me&date=today+12-m&geo=US"
+    },
+    {
+     "query": "cheap flights 2024",
+     "value": 4100,
+     "formattedValue": "+4,100%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=cheap+flights+2024&date=today+12-m&geo=US"
+    },
+    {
+     "query": "florida python hunting safety",
+     "value": 3850,
+     "formattedValue": "+3,850%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=florida+python+hunting+safety&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python web framework",
+     "value": 3100,
+     "formattedValue": "+3,100%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python+web+framework&date=today+12-m&geo=US"
+    },
+    {
+     "query": "car insurance quotes",
+     "value": 2700,
+     "formattedValue": "+2,700%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=car+insurance+quotes&date=today+12-m&geo=US"
+    },
+    {
+     "query": "real estate listings",
+     "value": 2700,
+     "formattedValue": "+2,700%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=real+estate+listings&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python swallowed large porcupine",
+     "value": 2400,
+     "formattedValue": "+2,400%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python+swallowed+large+porcupine&date=today+12-m&geo=US"
+    },
+    {
+     "query": "how to cook pasta",
+     "value": 2250,
+     "formattedValue": "+2,250%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=how+to+cook+pasta&date=today+12-m&geo=US"
+    },
+    {
+     "query": "learn python for beginners",
+     "value": 2100,
+     "formattedValue": "+2,100%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=learn+python+for+beginners&date=today+12-m&geo=US"
+    },
+    {
+     "query": "weather forecast today",
+     "value": 2000,
+     "formattedValue": "+2,000%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=weather+forecast+today&date=today+12-m&geo=US"
+    },
+    {
+     "query": "burmese python florida spread",
+     "value": 1750,
+     "formattedValue": "+1,750%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=burmese+python+florida+spread&date=today+12-m&geo=US"
+    },
+    {
+     "query": "api design principles",
+     "value": 1450,
+     "formattedValue": "+1,450%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=api+design+principles&date=today+12-m&geo=US"
+    },
+    {
+     "query": "software testing strategies",
+     "value": 1050,
+     "formattedValue": "+1,050%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=software+testing+strategies&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python data analysis",
+     "value": 500,
+     "formattedValue": "+500%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python+data+analysis&date=today+12-m&geo=US"
+    },
+    {
+     "query": "how to learn python",
+     "value": 500,
+     "formattedValue": "+500%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=how+to+learn+python&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python music",
+     "value": 300,
+     "formattedValue": "+300%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python+music&date=today+12-m&geo=US"
+    }
+   ]
+  },
+  "scrapedAt": "2026-10-13T07:19:28.834Z",
+  "shareOfSearchPct": 57.4,
+  "rankInComparison": 1
+ },
+ {
+  "keyword": "javascript",
+  "status": "ok",
+  "geo": "US",
+  "timeRange": "today 12-m",
+  "category": 0,
+  "searchType": "web",
+  "scale": "shared",
+  "comparisonGroup": [
+   "python",
+   "javascript",
+   "rust",
+   "typescript",
+   "golang"
+  ],
+  "hasData": true,
+  "pointCount": 53,
+  "average": 9.85,
+  "latestValue": 4,
+  "latestDate": "2026-10-04T00:00:00.000Z",
+  "peakValue": 21,
+  "peakDate": "2026-06-14T00:00:00.000Z",
+  "recentChangePct": 0,
+  "recentWindowPoints": 4,
+  "trendChangePct": -17.3,
+  "direction": "falling",
+  "yearOverYearChangePct": null,
+  "peakMonth": null,
+  "seasonalityStrength": null,
+  "volatility": 0.41,
+  "zeroShare": 0,
+  "topRegion": "Wyoming",
+  "breakoutQueries": [
+   "walmart near me",
+   "lidl near me",
+   "best way to learn javascript"
+  ],
+  "topRisingQuery": "walmart near me",
+  "trendsUrl": "https://trends.google.com/trends/explore?date=today+12-m&q=python%2Cjavascript%2Crust%2Ctypescript%2Cgolang&geo=US",
+  "interestOverTime": [
+   {
+    "date": "2025-10-12T00:00:00.000Z",
+    "formattedTime": "Oct 12\u2009\u2013\u200918, 2025",
+    "value": 8,
+    "isPartial": false
+   },
+   {
+    "date": "2025-10-19T00:00:00.000Z",
+    "formattedTime": "Oct 19\u2009\u2013\u200925, 2025",
+    "value": 8,
+    "isPartial": false
+   },
+   {
+    "date": "2025-10-26T00:00:00.000Z",
+    "formattedTime": "Oct 26\u2009\u2013\u2009Nov 1, 2025",
+    "value": 9,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-02T00:00:00.000Z",
+    "formattedTime": "Nov 2\u2009\u2013\u20098, 2025",
+    "value": 9,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-09T00:00:00.000Z",
+    "formattedTime": "Nov 9\u2009\u2013\u200915, 2025",
+    "value": 9,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-16T00:00:00.000Z",
+    "formattedTime": "Nov 16\u2009\u2013\u200922, 2025",
+    "value": 9,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-23T00:00:00.000Z",
+    "formattedTime": "Nov 23\u2009\u2013\u200929, 2025",
+    "value": 6,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-30T00:00:00.000Z",
+    "formattedTime": "Nov 30\u2009\u2013\u2009Dec 6, 2025",
+    "value": 8,
+    "isPartial": false
+   },
+   {
+    "date": "2025-12-07T00:00:00.000Z",
+    "formattedTime": "Dec 7\u2009\u2013\u200913, 2025",
+    "value": 9,
+    "isPartial": false
+   },
+   {
+    "date": "2025-12-14T00:00:00.000Z",
+    "formattedTime": "Dec 14\u2009\u2013\u200920, 2025",
+    "value": 9,
+    "isPartial": false
+   },
+   {
+    "date": "2025-12-21T00:00:00.000Z",
+    "formattedTime": "Dec 21\u2009\u2013\u200927, 2025",
+    "value": 6,
+    "isPartial": false
+   },
+   {
+    "date": "2025-12-28T00:00:00.000Z",
+    "formattedTime": "Dec 28, 2025\u2009\u2013\u2009Jan 3, 2026",
+    "value": 6,
+    "isPartial": false
+   },
+   {
+    "date": "2026-01-04T00:00:00.000Z",
+    "formattedTime": "Jan 4\u2009\u2013\u200910, 2026",
+    "value": 8,
+    "isPartial": false
+   },
+   {
+    "date": "2026-01-11T00:00:00.000Z",
+    "formattedTime": "Jan 11\u2009\u2013\u200917, 2026",
+    "value": 9,
+    "isPartial": false
+   },
+   {
+    "date": "2026-01-18T00:00:00.000Z",
+    "formattedTime": "Jan 18\u2009\u2013\u200924, 2026",
+    "value": 10,
+    "isPartial": false
+   },
+   {
+    "date": "2026-01-25T00:00:00.000Z",
+    "formattedTime": "Jan 25\u2009\u2013\u200931, 2026",
+    "value": 11,
+    "isPartial": false
+   },
+   {
+    "date": "2026-02-01T00:00:00.000Z",
+    "formattedTime": "Feb 1\u2009\u2013\u20097, 2026",
+    "value": 12,
+    "isPartial": false
+   },
+   {
+    "date": "2026-02-08T00:00:00.000Z",
+    "formattedTime": "Feb 8\u2009\u2013\u200914, 2026",
+    "value": 13,
+    "isPartial": false
+   },
+   {
+    "date": "2026-02-15T00:00:00.000Z",
+    "formattedTime": "Feb 15\u2009\u2013\u200921, 2026",
+    "value": 13,
+    "isPartial": false
+   },
+   {
+    "date": "2026-02-22T00:00:00.000Z",
+    "formattedTime": "Feb 22\u2009\u2013\u200928, 2026",
+    "value": 13,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-01T00:00:00.000Z",
+    "formattedTime": "Mar 1\u2009\u2013\u20097, 2026",
+    "value": 12,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-08T00:00:00.000Z",
+    "formattedTime": "Mar 8\u2009\u2013\u200914, 2026",
+    "value": 10,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-15T00:00:00.000Z",
+    "formattedTime": "Mar 15\u2009\u2013\u200921, 2026",
+    "value": 13,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-22T00:00:00.000Z",
+    "formattedTime": "Mar 22\u2009\u2013\u200928, 2026",
+    "value": 11,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-29T00:00:00.000Z",
+    "formattedTime": "Mar 29\u2009\u2013\u2009Apr 4, 2026",
+    "value": 12,
+    "isPartial": false
+   },
+   {
+    "date": "2026-04-05T00:00:00.000Z",
+    "formattedTime": "Apr 5\u2009\u2013\u200911, 2026",
+    "value": 13,
+    "isPartial": false
+   },
+   {
+    "date": "2026-04-12T00:00:00.000Z",
+    "formattedTime": "Apr 12\u2009\u2013\u200918, 2026",
+    "value": 11,
+    "isPartial": false
+   },
+   {
+    "date": "2026-04-19T00:00:00.000Z",
+    "formattedTime": "Apr 19\u2009\u2013\u200925, 2026",
+    "value": 11,
+    "isPartial": false
+   },
+   {
+    "date": "2026-04-26T00:00:00.000Z",
+    "formattedTime": "Apr 26\u2009\u2013\u2009May 2, 2026",
+    "value": 12,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-03T00:00:00.000Z",
+    "formattedTime": "May 3\u2009\u2013\u20099, 2026",
+    "value": 12,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-10T00:00:00.000Z",
+    "formattedTime": "May 10\u2009\u2013\u200916, 2026",
+    "value": 12,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-17T00:00:00.000Z",
+    "formattedTime": "May 17\u2009\u2013\u200923, 2026",
+    "value": 12,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-24T00:00:00.000Z",
+    "formattedTime": "May 24\u2009\u2013\u200930, 2026",
+    "value": 15,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-31T00:00:00.000Z",
+    "formattedTime": "May 31\u2009\u2013\u2009Jun 6, 2026",
+    "value": 17,
+    "isPartial": false
+   },
+   {
+    "date": "2026-06-07T00:00:00.000Z",
+    "formattedTime": "Jun 7\u2009\u2013\u200913, 2026",
+    "value": 19,
+    "isPartial": false
+   },
+   {
+    "date": "2026-06-14T00:00:00.000Z",
+    "formattedTime": "Jun 14\u2009\u2013\u200920, 2026",
+    "value": 21,
+    "isPartial": false
+   },
+   {
+    "date": "2026-06-21T00:00:00.000Z",
+    "formattedTime": "Jun 21\u2009\u2013\u200927, 2026",
+    "value": 20,
+    "isPartial": false
+   },
+   {
+    "date": "2026-06-28T00:00:00.000Z",
+    "formattedTime": "Jun 28\u2009\u2013\u2009Jul 4, 2026",
+    "value": 12,
+    "isPartial": false
+   },
+   {
+    "date": "2026-07-05T00:00:00.000Z",
+    "formattedTime": "Jul 5\u2009\u2013\u200911, 2026",
+    "value": 12,
+    "isPartial": false
+   },
+   {
+    "date": "2026-07-12T00:00:00.000Z",
+    "formattedTime": "Jul 12\u2009\u2013\u200918, 2026",
+    "value": 10,
+    "isPartial": false
+   },
+   {
+    "date": "2026-07-19T00:00:00.000Z",
+    "formattedTime": "Jul 19\u2009\u2013\u200925, 2026",
+    "value": 6,
+    "isPartial": false
+   },
+   {
+    "date": "2026-07-26T00:00:00.000Z",
+    "formattedTime": "Jul 26\u2009\u2013\u2009Aug 1, 2026",
+    "value": 5,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-02T00:00:00.000Z",
+    "formattedTime": "Aug 2\u2009\u2013\u20098, 2026",
+    "value": 6,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-09T00:00:00.000Z",
+    "formattedTime": "Aug 9\u2009\u2013\u200915, 2026",
+    "value": 5,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-16T00:00:00.000Z",
+    "formattedTime": "Aug 16\u2009\u2013\u200922, 2026",
+    "value": 5,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-23T00:00:00.000Z",
+    "formattedTime": "Aug 23\u2009\u2013\u200929, 2026",
+    "value": 4,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-30T00:00:00.000Z",
+    "formattedTime": "Aug 30\u2009\u2013\u2009Sep 5, 2026",
+    "value": 5,
+    "isPartial": false
+   },
+   {
+    "date": "2026-09-06T00:00:00.000Z",
+    "formattedTime": "Sep 6\u2009\u2013\u200912, 2026",
+    "value": 5,
+    "isPartial": false
+   },
+   {
+    "date": "2026-09-13T00:00:00.000Z",
+    "formattedTime": "Sep 13\u2009\u2013\u200919, 2026",
+    "value": 6,
+    "isPartial": false
+   },
+   {
+    "date": "2026-09-20T00:00:00.000Z",
+    "formattedTime": "Sep 20\u2009\u2013\u200926, 2026",
+    "value": 5,
+    "isPartial": false
+   },
+   {
+    "date": "2026-09-27T00:00:00.000Z",
+    "formattedTime": "Sep 27\u2009\u2013\u2009Oct 3, 2026",
+    "value": 4,
+    "isPartial": false
+   },
+   {
+    "date": "2026-10-04T00:00:00.000Z",
+    "formattedTime": "Oct 4\u2009\u2013\u200910, 2026",
+    "value": 4,
+    "isPartial": false
+   },
+   {
+    "date": "2026-10-11T00:00:00.000Z",
+    "formattedTime": "Oct 11\u2009\u2013\u200917, 2026",
+    "value": 3,
+    "isPartial": true
+   }
+  ],
+  "interestByRegion": [
+   {
+    "geoCode": "US-WY",
+    "geoName": "Wyoming",
+    "value": 100
+   },
+   {
+    "geoCode": "US-KS",
+    "geoName": "Kansas",
+    "value": 31
+   },
+   {
+    "geoCode": "US-MD",
+    "geoName": "Maryland",
+    "value": 15
+   },
+   {
+    "geoCode": "US-VA",
+    "geoName": "Virginia",
+    "value": 14
+   },
+   {
+    "geoCode": "US-UT",
+    "geoName": "Utah",
+    "value": 14
+   },
+   {
+    "geoCode": "US-WA",
+    "geoName": "Washington",
+    "value": 13
+   },
+   {
+    "geoCode": "US-NY",
+    "geoName": "New York",
+    "value": 13
+   },
+   {
+    "geoCode": "US-CA",
+    "geoName": "California",
+    "value": 13
+   },
+   {
+    "geoCode": "US-DC",
+    "geoName": "District of Columbia",
+    "value": 13
+   },
+   {
+    "geoCode": "US-MA",
+    "geoName": "Massachusetts",
+    "value": 13
+   },
+   {
+    "geoCode": "US-CO",
+    "geoName": "Colorado",
+    "value": 12
+   },
+   {
+    "geoCode": "US-IL",
+    "geoName": "Illinois",
+    "value": 10
+   },
+   {
+    "geoCode": "US-GA",
+    "geoName": "Georgia",
+    "value": 10
+   },
+   {
+    "geoCode": "US-NJ",
+    "geoName": "New Jersey",
+    "value": 10
+   },
+   {
+    "geoCode": "US-OR",
+    "geoName": "Oregon",
+    "value": 10
+   },
+   {
+    "geoCode": "US-TX",
+    "geoName": "Texas",
+    "value": 10
+   },
+   {
+    "geoCode": "US-PA",
+    "geoName": "Pennsylvania",
+    "value": 9
+   },
+   {
+    "geoCode": "US-FL",
+    "geoName": "Florida",
+    "value": 9
+   },
+   {
+    "geoCode": "US-NC",
+    "geoName": "North Carolina",
+    "value": 9
+   },
+   {
+    "geoCode": "US-LA",
+    "geoName": "Louisiana",
+    "value": 9
+   },
+   {
+    "geoCode": "US-CT",
+    "geoName": "Connecticut",
+    "value": 9
+   },
+   {
+    "geoCode": "US-MI",
+    "geoName": "Michigan",
+    "value": 9
+   },
+   {
+    "geoCode": "US-MO",
+    "geoName": "Missouri",
+    "value": 9
+   },
+   {
+    "geoCode": "US-AZ",
+    "geoName": "Arizona",
+    "value": 9
+   },
+   {
+    "geoCode": "US-RI",
+    "geoName": "Rhode Island",
+    "value": 8
+   },
+   {
+    "geoCode": "US-MN",
+    "geoName": "Minnesota",
+    "value": 8
+   },
+   {
+    "geoCode": "US-TN",
+    "geoName": "Tennessee",
+    "value": 8
+   },
+   {
+    "geoCode": "US-AL",
+    "geoName": "Alabama",
+    "value": 8
+   },
+   {
+    "geoCode": "US-OH",
+    "geoName": "Ohio",
+    "value": 8
+   },
+   {
+    "geoCode": "US-WI",
+    "geoName": "Wisconsin",
+    "value": 8
+   },
+   {
+    "geoCode": "US-SC",
+    "geoName": "South Carolina",
+    "value": 8
+   },
+   {
+    "geoCode": "US-DE",
+    "geoName": "Delaware",
+    "value": 8
+   },
+   {
+    "geoCode": "US-NH",
+    "geoName": "New Hampshire",
+    "value": 8
+   },
+   {
+    "geoCode": "US-OK",
+    "geoName": "Oklahoma",
+    "value": 8
+   },
+   {
+    "geoCode": "US-VT",
+    "geoName": "Vermont",
+    "value": 8
+   },
+   {
+    "geoCode": "US-IN",
+    "geoName": "Indiana",
+    "value": 8
+   },
+   {
+    "geoCode": "US-NV",
+    "geoName": "Nevada",
+    "value": 8
+   },
+   {
+    "geoCode": "US-KY",
+    "geoName": "Kentucky",
+    "value": 7
+   },
+   {
+    "geoCode": "US-IA",
+    "geoName": "Iowa",
+    "value": 7
+   },
+   {
+    "geoCode": "US-NE",
+    "geoName": "Nebraska",
+    "value": 7
+   },
+   {
+    "geoCode": "US-ID",
+    "geoName": "Idaho",
+    "value": 7
+   },
+   {
+    "geoCode": "US-WV",
+    "geoName": "West Virginia",
+    "value": 7
+   },
+   {
+    "geoCode": "US-NM",
+    "geoName": "New Mexico",
+    "value": 7
+   },
+   {
+    "geoCode": "US-MS",
+    "geoName": "Mississippi",
+    "value": 6
+   },
+   {
+    "geoCode": "US-AR",
+    "geoName": "Arkansas",
+    "value": 6
+   },
+   {
+    "geoCode": "US-AK",
+    "geoName": "Alaska",
+    "value": 6
+   },
+   {
+    "geoCode": "US-ME",
+    "geoName": "Maine",
+    "value": 6
+   },
+   {
+    "geoCode": "US-SD",
+    "geoName": "South Dakota",
+    "value": 6
+   },
+   {
+    "geoCode": "US-MT",
+    "geoName": "Montana",
+    "value": 6
+   },
+   {
+    "geoCode": "US-HI",
+    "geoName": "Hawaii",
+    "value": 5
+   },
+   {
+    "geoCode": "US-ND",
+    "geoName": "North Dakota",
+    "value": 5
+   }
+  ],
+  "relatedQueries": {
+   "top": [
+    {
+     "query": "what is javascript",
+     "value": 100,
+     "formattedValue": "100",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=what+is+javascript&date=today+12-m&geo=US"
+    },
+    {
+     "query": "javascript libraries",
+     "value": 73,
+     "formattedValue": "73",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=javascript+libraries&date=today+12-m&geo=US"
+    },
+    {
+     "query": "javascript code",
+     "value": 68,
+     "formattedValue": "68",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=javascript+code&date=today+12-m&geo=US"
+    },
+    {
+     "query": "html",
+     "value": 55,
+     "formattedValue": "55",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=html&date=today+12-m&geo=US"
+    },
+    {
+     "query": "learn javascript",
+     "value": 52,
+     "formattedValue": "52",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=learn+javascript&date=today+12-m&geo=US"
+    },
+    {
+     "query": "javascript function",
+     "value": 44,
+     "formattedValue": "44",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=javascript+function&date=today+12-m&geo=US"
+    },
+    {
+     "query": "javascript array",
+     "value": 43,
+     "formattedValue": "43",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=javascript+array&date=today+12-m&geo=US"
+    },
+    {
+     "query": "javascript news",
+     "value": 41,
+     "formattedValue": "41",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=javascript+news&date=today+12-m&geo=US"
+    },
+    {
+     "query": "javascript date",
+     "value": 40,
+     "formattedValue": "40",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=javascript+date&date=today+12-m&geo=US"
+    },
+    {
+     "query": "best way to learn javascript",
+     "value": 38,
+     "formattedValue": "38",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=best+way+to+learn+javascript&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python",
+     "value": 36,
+     "formattedValue": "36",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python&date=today+12-m&geo=US"
+    },
+    {
+     "query": "github",
+     "value": 35,
+     "formattedValue": "35",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=github&date=today+12-m&geo=US"
+    },
+    {
+     "query": "javascript online",
+     "value": 34,
+     "formattedValue": "34",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=javascript+online&date=today+12-m&geo=US"
+    },
+    {
+     "query": "css",
+     "value": 32,
+     "formattedValue": "32",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=css&date=today+12-m&geo=US"
+    },
+    {
+     "query": "javascript set",
+     "value": 31,
+     "formattedValue": "31",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=javascript+set&date=today+12-m&geo=US"
+    },
+    {
+     "query": "javascript meaning",
+     "value": 28,
+     "formattedValue": "28",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=javascript+meaning&date=today+12-m&geo=US"
+    },
+    {
+     "query": "java",
+     "value": 26,
+     "formattedValue": "26",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=java&date=today+12-m&geo=US"
+    },
+    {
+     "query": "react",
+     "value": 22,
+     "formattedValue": "22",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=react&date=today+12-m&geo=US"
+    },
+    {
+     "query": "typescript",
+     "value": 22,
+     "formattedValue": "22",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=typescript&date=today+12-m&geo=US"
+    },
+    {
+     "query": "javascript map",
+     "value": 21,
+     "formattedValue": "21",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=javascript+map&date=today+12-m&geo=US"
+    },
+    {
+     "query": "javascript download",
+     "value": 19,
+     "formattedValue": "19",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=javascript+download&date=today+12-m&geo=US"
+    },
+    {
+     "query": "coding javascript",
+     "value": 15,
+     "formattedValue": "15",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=coding+javascript&date=today+12-m&geo=US"
+    },
+    {
+     "query": "enable javascript",
+     "value": 13,
+     "formattedValue": "13",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=enable+javascript&date=today+12-m&geo=US"
+    },
+    {
+     "query": "javascript filter",
+     "value": 12,
+     "formattedValue": "12",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=javascript+filter&date=today+12-m&geo=US"
+    },
+    {
+     "query": "javascript tutorial",
+     "value": 10,
+     "formattedValue": "10",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=javascript+tutorial&date=today+12-m&geo=US"
+    }
+   ],
+   "rising": [
+    {
+     "query": "walmart near me",
+     "value": 37800,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=walmart+near+me&date=today+12-m&geo=US"
+    },
+    {
+     "query": "lidl near me",
+     "value": 19000,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=lidl+near+me&date=today+12-m&geo=US"
+    },
+    {
+     "query": "best way to learn javascript",
+     "value": 7050,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=best+way+to+learn+javascript&date=today+12-m&geo=US"
+    },
+    {
+     "query": "internet of things examples",
+     "value": 4400,
+     "formattedValue": "+4,400%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=internet+of+things+examples&date=today+12-m&geo=US"
+    },
+    {
+     "query": "computer vision projects",
+     "value": 4300,
+     "formattedValue": "+4,300%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=computer+vision+projects&date=today+12-m&geo=US"
+    },
+    {
+     "query": "kubernetes orchestration",
+     "value": 4250,
+     "formattedValue": "+4,250%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=kubernetes+orchestration&date=today+12-m&geo=US"
+    },
+    {
+     "query": "api design principles",
+     "value": 2850,
+     "formattedValue": "+2,850%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=api+design+principles&date=today+12-m&geo=US"
+    },
+    {
+     "query": "docker containerization",
+     "value": 2750,
+     "formattedValue": "+2,750%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=docker+containerization&date=today+12-m&geo=US"
+    },
+    {
+     "query": "software testing strategies",
+     "value": 2150,
+     "formattedValue": "+2,150%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=software+testing+strategies&date=today+12-m&geo=US"
+    },
+    {
+     "query": "javascript libraries",
+     "value": 1900,
+     "formattedValue": "+1,900%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=javascript+libraries&date=today+12-m&geo=US"
+    },
+    {
+     "query": "deep learning tutorials",
+     "value": 1750,
+     "formattedValue": "+1,750%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=deep+learning+tutorials&date=today+12-m&geo=US"
+    },
+    {
+     "query": "data science projects",
+     "value": 1500,
+     "formattedValue": "+1,500%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=data+science+projects&date=today+12-m&geo=US"
+    },
+    {
+     "query": "cybersecurity tips",
+     "value": 1350,
+     "formattedValue": "+1,350%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=cybersecurity+tips&date=today+12-m&geo=US"
+    },
+    {
+     "query": "database optimization",
+     "value": 1200,
+     "formattedValue": "+1,200%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=database+optimization&date=today+12-m&geo=US"
+    },
+    {
+     "query": "natural language processing",
+     "value": 1150,
+     "formattedValue": "+1,150%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=natural+language+processing&date=today+12-m&geo=US"
+    },
+    {
+     "query": "microservices architecture",
+     "value": 1100,
+     "formattedValue": "+1,100%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=microservices+architecture&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python programming tutorial",
+     "value": 1000,
+     "formattedValue": "+1,000%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python+programming+tutorial&date=today+12-m&geo=US"
+    },
+    {
+     "query": "robotics programming",
+     "value": 950,
+     "formattedValue": "+950%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=robotics+programming&date=today+12-m&geo=US"
+    },
+    {
+     "query": "devops practices",
+     "value": 850,
+     "formattedValue": "+850%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=devops+practices&date=today+12-m&geo=US"
+    },
+    {
+     "query": "wikipedia",
+     "value": 750,
+     "formattedValue": "+750%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=wikipedia&date=today+12-m&geo=US"
+    },
+    {
+     "query": "machine learning algorithms",
+     "value": 750,
+     "formattedValue": "+750%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=machine+learning+algorithms&date=today+12-m&geo=US"
+    },
+    {
+     "query": "machine learning models",
+     "value": 650,
+     "formattedValue": "+650%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=machine+learning+models&date=today+12-m&geo=US"
+    },
+    {
+     "query": "blockchain technology",
+     "value": 650,
+     "formattedValue": "+650%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=blockchain+technology&date=today+12-m&geo=US"
+    },
+    {
+     "query": "javascript news",
+     "value": 400,
+     "formattedValue": "+400%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=javascript+news&date=today+12-m&geo=US"
+    },
+    {
+     "query": "learn javascript",
+     "value": 250,
+     "formattedValue": "+250%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=learn+javascript&date=today+12-m&geo=US"
+    }
+   ]
+  },
+  "scrapedAt": "2026-10-13T07:19:28.834Z",
+  "shareOfSearchPct": 9,
+  "rankInComparison": 3
+ },
+ {
+  "keyword": "rust",
+  "status": "ok",
+  "geo": "US",
+  "timeRange": "today 12-m",
+  "category": 0,
+  "searchType": "web",
+  "scale": "shared",
+  "comparisonGroup": [
+   "python",
+   "javascript",
+   "rust",
+   "typescript",
+   "golang"
+  ],
+  "hasData": true,
+  "pointCount": 53,
+  "average": 30.67,
+  "latestValue": 26,
+  "latestDate": "2026-10-04T00:00:00.000Z",
+  "peakValue": 43,
+  "peakDate": "2026-06-21T00:00:00.000Z",
+  "recentChangePct": 1,
+  "recentWindowPoints": 4,
+  "trendChangePct": 14.6,
+  "direction": "stable",
+  "yearOverYearChangePct": null,
+  "peakMonth": null,
+  "seasonalityStrength": null,
+  "volatility": 0.18,
+  "zeroShare": 0,
+  "topRegion": "Wyoming",
+  "breakoutQueries": [
+   "walk my walk breaking rust",
+   "uss abraham lincoln rust",
+   "rust kick drops"
+  ],
+  "topRisingQuery": "walk my walk breaking rust",
+  "trendsUrl": "https://trends.google.com/trends/explore?date=today+12-m&q=python%2Cjavascript%2Crust%2Ctypescript%2Cgolang&geo=US",
+  "interestOverTime": [
+   {
+    "date": "2025-10-12T00:00:00.000Z",
+    "formattedTime": "Oct 12\u2009\u2013\u200918, 2025",
+    "value": 25,
+    "isPartial": false
+   },
+   {
+    "date": "2025-10-19T00:00:00.000Z",
+    "formattedTime": "Oct 19\u2009\u2013\u200925, 2025",
+    "value": 25,
+    "isPartial": false
+   },
+   {
+    "date": "2025-10-26T00:00:00.000Z",
+    "formattedTime": "Oct 26\u2009\u2013\u2009Nov 1, 2025",
+    "value": 24,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-02T00:00:00.000Z",
+    "formattedTime": "Nov 2\u2009\u2013\u20098, 2025",
+    "value": 26,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-09T00:00:00.000Z",
+    "formattedTime": "Nov 9\u2009\u2013\u200915, 2025",
+    "value": 28,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-16T00:00:00.000Z",
+    "formattedTime": "Nov 16\u2009\u2013\u200922, 2025",
+    "value": 25,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-23T00:00:00.000Z",
+    "formattedTime": "Nov 23\u2009\u2013\u200929, 2025",
+    "value": 24,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-30T00:00:00.000Z",
+    "formattedTime": "Nov 30\u2009\u2013\u2009Dec 6, 2025",
+    "value": 24,
+    "isPartial": false
+   },
+   {
+    "date": "2025-12-07T00:00:00.000Z",
+    "formattedTime": "Dec 7\u2009\u2013\u200913, 2025",
+    "value": 25,
+    "isPartial": false
+   },
+   {
+    "date": "2025-12-14T00:00:00.000Z",
+    "formattedTime": "Dec 14\u2009\u2013\u200920, 2025",
+    "value": 28,
+    "isPartial": false
+   },
+   {
+    "date": "2025-12-21T00:00:00.000Z",
+    "formattedTime": "Dec 21\u2009\u2013\u200927, 2025",
+    "value": 27,
+    "isPartial": false
+   },
+   {
+    "date": "2025-12-28T00:00:00.000Z",
+    "formattedTime": "Dec 28, 2025\u2009\u2013\u2009Jan 3, 2026",
+    "value": 28,
+    "isPartial": false
+   },
+   {
+    "date": "2026-01-04T00:00:00.000Z",
+    "formattedTime": "Jan 4\u2009\u2013\u200910, 2026",
+    "value": 26,
+    "isPartial": false
+   },
+   {
+    "date": "2026-01-11T00:00:00.000Z",
+    "formattedTime": "Jan 11\u2009\u2013\u200917, 2026",
+    "value": 27,
+    "isPartial": false
+   },
+   {
+    "date": "2026-01-18T00:00:00.000Z",
+    "formattedTime": "Jan 18\u2009\u2013\u200924, 2026",
+    "value": 29,
+    "isPartial": false
+   },
+   {
+    "date": "2026-01-25T00:00:00.000Z",
+    "formattedTime": "Jan 25\u2009\u2013\u200931, 2026",
+    "value": 29,
+    "isPartial": false
+   },
+   {
+    "date": "2026-02-01T00:00:00.000Z",
+    "formattedTime": "Feb 1\u2009\u2013\u20097, 2026",
+    "value": 33,
+    "isPartial": false
+   },
+   {
+    "date": "2026-02-08T00:00:00.000Z",
+    "formattedTime": "Feb 8\u2009\u2013\u200914, 2026",
+    "value": 32,
+    "isPartial": false
+   },
+   {
+    "date": "2026-02-15T00:00:00.000Z",
+    "formattedTime": "Feb 15\u2009\u2013\u200921, 2026",
+    "value": 34,
+    "isPartial": false
+   },
+   {
+    "date": "2026-02-22T00:00:00.000Z",
+    "formattedTime": "Feb 22\u2009\u2013\u200928, 2026",
+    "value": 31,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-01T00:00:00.000Z",
+    "formattedTime": "Mar 1\u2009\u2013\u20097, 2026",
+    "value": 29,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-08T00:00:00.000Z",
+    "formattedTime": "Mar 8\u2009\u2013\u200914, 2026",
+    "value": 29,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-15T00:00:00.000Z",
+    "formattedTime": "Mar 15\u2009\u2013\u200921, 2026",
+    "value": 29,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-22T00:00:00.000Z",
+    "formattedTime": "Mar 22\u2009\u2013\u200928, 2026",
+    "value": 29,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-29T00:00:00.000Z",
+    "formattedTime": "Mar 29\u2009\u2013\u2009Apr 4, 2026",
+    "value": 36,
+    "isPartial": false
+   },
+   {
+    "date": "2026-04-05T00:00:00.000Z",
+    "formattedTime": "Apr 5\u2009\u2013\u200911, 2026",
+    "value": 40,
+    "isPartial": false
+   },
+   {
+    "date": "2026-04-12T00:00:00.000Z",
+    "formattedTime": "Apr 12\u2009\u2013\u200918, 2026",
+    "value": 41,
+    "isPartial": false
+   },
+   {
+    "date": "2026-04-19T00:00:00.000Z",
+    "formattedTime": "Apr 19\u2009\u2013\u200925, 2026",
+    "value": 38,
+    "isPartial": false
+   },
+   {
+    "date": "2026-04-26T00:00:00.000Z",
+    "formattedTime": "Apr 26\u2009\u2013\u2009May 2, 2026",
+    "value": 35,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-03T00:00:00.000Z",
+    "formattedTime": "May 3\u2009\u2013\u20099, 2026",
+    "value": 35,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-10T00:00:00.000Z",
+    "formattedTime": "May 10\u2009\u2013\u200916, 2026",
+    "value": 38,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-17T00:00:00.000Z",
+    "formattedTime": "May 17\u2009\u2013\u200923, 2026",
+    "value": 40,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-24T00:00:00.000Z",
+    "formattedTime": "May 24\u2009\u2013\u200930, 2026",
+    "value": 39,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-31T00:00:00.000Z",
+    "formattedTime": "May 31\u2009\u2013\u2009Jun 6, 2026",
+    "value": 39,
+    "isPartial": false
+   },
+   {
+    "date": "2026-06-07T00:00:00.000Z",
+    "formattedTime": "Jun 7\u2009\u2013\u200913, 2026",
+    "value": 41,
+    "isPartial": false
+   },
+   {
+    "date": "2026-06-14T00:00:00.000Z",
+    "formattedTime": "Jun 14\u2009\u2013\u200920, 2026",
+    "value": 42,
+    "isPartial": false
+   },
+   {
+    "date": "2026-06-21T00:00:00.000Z",
+    "formattedTime": "Jun 21\u2009\u2013\u200927, 2026",
+    "value": 43,
+    "isPartial": false
+   },
+   {
+    "date": "2026-06-28T00:00:00.000Z",
+    "formattedTime": "Jun 28\u2009\u2013\u2009Jul 4, 2026",
+    "value": 36,
+    "isPartial": false
+   },
+   {
+    "date": "2026-07-05T00:00:00.000Z",
+    "formattedTime": "Jul 5\u2009\u2013\u200911, 2026",
+    "value": 33,
+    "isPartial": false
+   },
+   {
+    "date": "2026-07-12T00:00:00.000Z",
+    "formattedTime": "Jul 12\u2009\u2013\u200918, 2026",
+    "value": 31,
+    "isPartial": false
+   },
+   {
+    "date": "2026-07-19T00:00:00.000Z",
+    "formattedTime": "Jul 19\u2009\u2013\u200925, 2026",
+    "value": 27,
+    "isPartial": false
+   },
+   {
+    "date": "2026-07-26T00:00:00.000Z",
+    "formattedTime": "Jul 26\u2009\u2013\u2009Aug 1, 2026",
+    "value": 28,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-02T00:00:00.000Z",
+    "formattedTime": "Aug 2\u2009\u2013\u20098, 2026",
+    "value": 30,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-09T00:00:00.000Z",
+    "formattedTime": "Aug 9\u2009\u2013\u200915, 2026",
+    "value": 28,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-16T00:00:00.000Z",
+    "formattedTime": "Aug 16\u2009\u2013\u200922, 2026",
+    "value": 25,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-23T00:00:00.000Z",
+    "formattedTime": "Aug 23\u2009\u2013\u200929, 2026",
+    "value": 24,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-30T00:00:00.000Z",
+    "formattedTime": "Aug 30\u2009\u2013\u2009Sep 5, 2026",
+    "value": 28,
+    "isPartial": false
+   },
+   {
+    "date": "2026-09-06T00:00:00.000Z",
+    "formattedTime": "Sep 6\u2009\u2013\u200912, 2026",
+    "value": 27,
+    "isPartial": false
+   },
+   {
+    "date": "2026-09-13T00:00:00.000Z",
+    "formattedTime": "Sep 13\u2009\u2013\u200919, 2026",
+    "value": 27,
+    "isPartial": false
+   },
+   {
+    "date": "2026-09-20T00:00:00.000Z",
+    "formattedTime": "Sep 20\u2009\u2013\u200926, 2026",
+    "value": 26,
+    "isPartial": false
+   },
+   {
+    "date": "2026-09-27T00:00:00.000Z",
+    "formattedTime": "Sep 27\u2009\u2013\u2009Oct 3, 2026",
+    "value": 26,
+    "isPartial": false
+   },
+   {
+    "date": "2026-10-04T00:00:00.000Z",
+    "formattedTime": "Oct 4\u2009\u2013\u200910, 2026",
+    "value": 26,
+    "isPartial": false
+   },
+   {
+    "date": "2026-10-11T00:00:00.000Z",
+    "formattedTime": "Oct 11\u2009\u2013\u200917, 2026",
+    "value": 26,
+    "isPartial": true
+   }
+  ],
+  "interestByRegion": [
+   {
+    "geoCode": "US-WY",
+    "geoName": "Wyoming",
+    "value": 100
+   },
+   {
+    "geoCode": "US-KS",
+    "geoName": "Kansas",
+    "value": 56
+   },
+   {
+    "geoCode": "US-WV",
+    "geoName": "West Virginia",
+    "value": 43
+   },
+   {
+    "geoCode": "US-ME",
+    "geoName": "Maine",
+    "value": 40
+   },
+   {
+    "geoCode": "US-WA",
+    "geoName": "Washington",
+    "value": 40
+   },
+   {
+    "geoCode": "US-MI",
+    "geoName": "Michigan",
+    "value": 39
+   },
+   {
+    "geoCode": "US-IA",
+    "geoName": "Iowa",
+    "value": 39
+   },
+   {
+    "geoCode": "US-OH",
+    "geoName": "Ohio",
+    "value": 39
+   },
+   {
+    "geoCode": "US-WI",
+    "geoName": "Wisconsin",
+    "value": 37
+   },
+   {
+    "geoCode": "US-NM",
+    "geoName": "New Mexico",
+    "value": 37
+   },
+   {
+    "geoCode": "US-VT",
+    "geoName": "Vermont",
+    "value": 37
+   },
+   {
+    "geoCode": "US-KY",
+    "geoName": "Kentucky",
+    "value": 36
+   },
+   {
+    "geoCode": "US-NH",
+    "geoName": "New Hampshire",
+    "value": 36
+   },
+   {
+    "geoCode": "US-MO",
+    "geoName": "Missouri",
+    "value": 35
+   },
+   {
+    "geoCode": "US-OR",
+    "geoName": "Oregon",
+    "value": 35
+   },
+   {
+    "geoCode": "US-UT",
+    "geoName": "Utah",
+    "value": 35
+   },
+   {
+    "geoCode": "US-MN",
+    "geoName": "Minnesota",
+    "value": 35
+   },
+   {
+    "geoCode": "US-PA",
+    "geoName": "Pennsylvania",
+    "value": 35
+   },
+   {
+    "geoCode": "US-IN",
+    "geoName": "Indiana",
+    "value": 35
+   },
+   {
+    "geoCode": "US-OK",
+    "geoName": "Oklahoma",
+    "value": 34
+   },
+   {
+    "geoCode": "US-VA",
+    "geoName": "Virginia",
+    "value": 34
+   },
+   {
+    "geoCode": "US-ND",
+    "geoName": "North Dakota",
+    "value": 34
+   },
+   {
+    "geoCode": "US-CA",
+    "geoName": "California",
+    "value": 34
+   },
+   {
+    "geoCode": "US-AK",
+    "geoName": "Alaska",
+    "value": 33
+   },
+   {
+    "geoCode": "US-AR",
+    "geoName": "Arkansas",
+    "value": 33
+   },
+   {
+    "geoCode": "US-MA",
+    "geoName": "Massachusetts",
+    "value": 33
+   },
+   {
+    "geoCode": "US-IL",
+    "geoName": "Illinois",
+    "value": 33
+   },
+   {
+    "geoCode": "US-MT",
+    "geoName": "Montana",
+    "value": 33
+   },
+   {
+    "geoCode": "US-NE",
+    "geoName": "Nebraska",
+    "value": 33
+   },
+   {
+    "geoCode": "US-ID",
+    "geoName": "Idaho",
+    "value": 32
+   },
+   {
+    "geoCode": "US-TN",
+    "geoName": "Tennessee",
+    "value": 32
+   },
+   {
+    "geoCode": "US-NY",
+    "geoName": "New York",
+    "value": 32
+   },
+   {
+    "geoCode": "US-CO",
+    "geoName": "Colorado",
+    "value": 32
+   },
+   {
+    "geoCode": "US-HI",
+    "geoName": "Hawaii",
+    "value": 31
+   },
+   {
+    "geoCode": "US-AZ",
+    "geoName": "Arizona",
+    "value": 31
+   },
+   {
+    "geoCode": "US-FL",
+    "geoName": "Florida",
+    "value": 31
+   },
+   {
+    "geoCode": "US-RI",
+    "geoName": "Rhode Island",
+    "value": 31
+   },
+   {
+    "geoCode": "US-AL",
+    "geoName": "Alabama",
+    "value": 31
+   },
+   {
+    "geoCode": "US-MS",
+    "geoName": "Mississippi",
+    "value": 31
+   },
+   {
+    "geoCode": "US-SD",
+    "geoName": "South Dakota",
+    "value": 31
+   },
+   {
+    "geoCode": "US-MD",
+    "geoName": "Maryland",
+    "value": 30
+   },
+   {
+    "geoCode": "US-NC",
+    "geoName": "North Carolina",
+    "value": 29
+   },
+   {
+    "geoCode": "US-CT",
+    "geoName": "Connecticut",
+    "value": 29
+   },
+   {
+    "geoCode": "US-LA",
+    "geoName": "Louisiana",
+    "value": 29
+   },
+   {
+    "geoCode": "US-GA",
+    "geoName": "Georgia",
+    "value": 29
+   },
+   {
+    "geoCode": "US-DE",
+    "geoName": "Delaware",
+    "value": 28
+   },
+   {
+    "geoCode": "US-TX",
+    "geoName": "Texas",
+    "value": 28
+   },
+   {
+    "geoCode": "US-SC",
+    "geoName": "South Carolina",
+    "value": 28
+   },
+   {
+    "geoCode": "US-NJ",
+    "geoName": "New Jersey",
+    "value": 27
+   },
+   {
+    "geoCode": "US-NV",
+    "geoName": "Nevada",
+    "value": 27
+   },
+   {
+    "geoCode": "US-DC",
+    "geoName": "District of Columbia",
+    "value": 21
+   }
+  ],
+  "relatedQueries": {
+   "top": [
+    {
+     "query": "what is rust",
+     "value": 100,
+     "formattedValue": "100",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=what+is+rust&date=today+12-m&geo=US"
+    },
+    {
+     "query": "how to remove rust",
+     "value": 74,
+     "formattedValue": "74",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=how+to+remove+rust&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust off",
+     "value": 67,
+     "formattedValue": "67",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+off&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust remover",
+     "value": 46,
+     "formattedValue": "46",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+remover&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust game",
+     "value": 43,
+     "formattedValue": "43",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+game&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust oleum",
+     "value": 38,
+     "formattedValue": "38",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+oleum&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust color",
+     "value": 36,
+     "formattedValue": "36",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+color&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust console",
+     "value": 32,
+     "formattedValue": "32",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+console&date=today+12-m&geo=US"
+    },
+    {
+     "query": "remove rust from metal",
+     "value": 25,
+     "formattedValue": "25",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=remove+rust+from+metal&date=today+12-m&geo=US"
+    },
+    {
+     "query": "how to remove rust from metal",
+     "value": 23,
+     "formattedValue": "23",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=how+to+remove+rust+from+metal&date=today+12-m&geo=US"
+    },
+    {
+     "query": "remove rust from cast iron",
+     "value": 22,
+     "formattedValue": "22",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=remove+rust+from+cast+iron&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust belt",
+     "value": 22,
+     "formattedValue": "22",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+belt&date=today+12-m&geo=US"
+    },
+    {
+     "query": "how to remove rust from cast iron",
+     "value": 21,
+     "formattedValue": "21",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=how+to+remove+rust+from+cast+iron&date=today+12-m&geo=US"
+    },
+    {
+     "query": "american rust",
+     "value": 20,
+     "formattedValue": "20",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=american+rust&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust book",
+     "value": 18,
+     "formattedValue": "18",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+book&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust oleum paint",
+     "value": 18,
+     "formattedValue": "18",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+oleum+paint&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust language",
+     "value": 17,
+     "formattedValue": "17",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+language&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust movie",
+     "value": 16,
+     "formattedValue": "16",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+movie&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust mobile",
+     "value": 14,
+     "formattedValue": "14",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+mobile&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust drops",
+     "value": 13,
+     "formattedValue": "13",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+drops&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust converter",
+     "value": 13,
+     "formattedValue": "13",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+converter&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust map",
+     "value": 13,
+     "formattedValue": "13",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+map&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust programming",
+     "value": 12,
+     "formattedValue": "12",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+programming&date=today+12-m&geo=US"
+    },
+    {
+     "query": "breaking rust",
+     "value": 12,
+     "formattedValue": "12",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=breaking+rust&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust college",
+     "value": 10,
+     "formattedValue": "10",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+college&date=today+12-m&geo=US"
+    }
+   ],
+   "rising": [
+    {
+     "query": "walk my walk breaking rust",
+     "value": 13700,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=walk+my+walk+breaking+rust&date=today+12-m&geo=US"
+    },
+    {
+     "query": "uss abraham lincoln rust",
+     "value": 7950,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=uss+abraham+lincoln+rust&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust kick drops",
+     "value": 7800,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=rust+kick+drops&date=today+12-m&geo=US"
+    },
+    {
+     "query": "breaking rust band",
+     "value": 3450,
+     "formattedValue": "+3,450%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=breaking+rust+band&date=today+12-m&geo=US"
+    },
+    {
+     "query": "how to remove rust from cast iron",
+     "value": 950,
+     "formattedValue": "+950%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=how+to+remove+rust+from+cast+iron&date=today+12-m&geo=US"
+    },
+    {
+     "query": "breaking rust",
+     "value": 850,
+     "formattedValue": "+850%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=breaking+rust&date=today+12-m&geo=US"
+    },
+    {
+     "query": "how to remove rust from metal",
+     "value": 600,
+     "formattedValue": "+600%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=how+to+remove+rust+from+metal&date=today+12-m&geo=US"
+    },
+    {
+     "query": "remove rust from cast iron",
+     "value": 600,
+     "formattedValue": "+600%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=remove+rust+from+cast+iron&date=today+12-m&geo=US"
+    },
+    {
+     "query": "how to remove rust stains from clothes",
+     "value": 500,
+     "formattedValue": "+500%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=how+to+remove+rust+stains+from+clothes&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust mobile",
+     "value": 300,
+     "formattedValue": "+300%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+mobile&date=today+12-m&geo=US"
+    },
+    {
+     "query": "remove rust from metal",
+     "value": 300,
+     "formattedValue": "+300%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=remove+rust+from+metal&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust book",
+     "value": 150,
+     "formattedValue": "+150%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+book&date=today+12-m&geo=US"
+    },
+    {
+     "query": "how to remove rust",
+     "value": 90,
+     "formattedValue": "+90%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=how+to+remove+rust&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust library",
+     "value": 60,
+     "formattedValue": "+60%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+library&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust college",
+     "value": 60,
+     "formattedValue": "+60%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+college&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust language",
+     "value": 50,
+     "formattedValue": "+50%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+language&date=today+12-m&geo=US"
+    },
+    {
+     "query": "american rust",
+     "value": 50,
+     "formattedValue": "+50%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=american+rust&date=today+12-m&geo=US"
+    },
+    {
+     "query": "rust programming",
+     "value": 40,
+     "formattedValue": "+40%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=rust+programming&date=today+12-m&geo=US"
+    },
+    {
+     "query": "what is rust",
+     "value": 40,
+     "formattedValue": "+40%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=what+is+rust&date=today+12-m&geo=US"
+    }
+   ]
+  },
+  "scrapedAt": "2026-10-13T07:19:28.834Z",
+  "shareOfSearchPct": 28.3,
+  "rankInComparison": 2
+ },
+ {
+  "keyword": "typescript",
+  "status": "ok",
+  "geo": "US",
+  "timeRange": "today 12-m",
+  "category": 0,
+  "searchType": "web",
+  "scale": "shared",
+  "comparisonGroup": [
+   "python",
+   "javascript",
+   "rust",
+   "typescript",
+   "golang"
+  ],
+  "hasData": true,
+  "pointCount": 53,
+  "average": 3.6,
+  "latestValue": 1,
+  "latestDate": "2026-10-04T00:00:00.000Z",
+  "peakValue": 9,
+  "peakDate": "2026-06-14T00:00:00.000Z",
+  "recentChangePct": 50,
+  "recentWindowPoints": 4,
+  "trendChangePct": -12.4,
+  "direction": "stable",
+  "yearOverYearChangePct": null,
+  "peakMonth": null,
+  "seasonalityStrength": null,
+  "volatility": 0.52,
+  "zeroShare": 0,
+  "topRegion": "Wyoming",
+  "breakoutQueries": [
+   "walmart near me"
+  ],
+  "topRisingQuery": "walmart near me",
+  "trendsUrl": "https://trends.google.com/trends/explore?date=today+12-m&q=python%2Cjavascript%2Crust%2Ctypescript%2Cgolang&geo=US",
+  "interestOverTime": [
+   {
+    "date": "2025-10-12T00:00:00.000Z",
+    "formattedTime": "Oct 12\u2009\u2013\u200918, 2025",
+    "value": 3,
+    "isPartial": false
+   },
+   {
+    "date": "2025-10-19T00:00:00.000Z",
+    "formattedTime": "Oct 19\u2009\u2013\u200925, 2025",
+    "value": 3,
+    "isPartial": false
+   },
+   {
+    "date": "2025-10-26T00:00:00.000Z",
+    "formattedTime": "Oct 26\u2009\u2013\u2009Nov 1, 2025",
+    "value": 3,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-02T00:00:00.000Z",
+    "formattedTime": "Nov 2\u2009\u2013\u20098, 2025",
+    "value": 4,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-09T00:00:00.000Z",
+    "formattedTime": "Nov 9\u2009\u2013\u200915, 2025",
+    "value": 3,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-16T00:00:00.000Z",
+    "formattedTime": "Nov 16\u2009\u2013\u200922, 2025",
+    "value": 3,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-23T00:00:00.000Z",
+    "formattedTime": "Nov 23\u2009\u2013\u200929, 2025",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-30T00:00:00.000Z",
+    "formattedTime": "Nov 30\u2009\u2013\u2009Dec 6, 2025",
+    "value": 3,
+    "isPartial": false
+   },
+   {
+    "date": "2025-12-07T00:00:00.000Z",
+    "formattedTime": "Dec 7\u2009\u2013\u200913, 2025",
+    "value": 3,
+    "isPartial": false
+   },
+   {
+    "date": "2025-12-14T00:00:00.000Z",
+    "formattedTime": "Dec 14\u2009\u2013\u200920, 2025",
+    "value": 3,
+    "isPartial": false
+   },
+   {
+    "date": "2025-12-21T00:00:00.000Z",
+    "formattedTime": "Dec 21\u2009\u2013\u200927, 2025",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2025-12-28T00:00:00.000Z",
+    "formattedTime": "Dec 28, 2025\u2009\u2013\u2009Jan 3, 2026",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2026-01-04T00:00:00.000Z",
+    "formattedTime": "Jan 4\u2009\u2013\u200910, 2026",
+    "value": 3,
+    "isPartial": false
+   },
+   {
+    "date": "2026-01-11T00:00:00.000Z",
+    "formattedTime": "Jan 11\u2009\u2013\u200917, 2026",
+    "value": 3,
+    "isPartial": false
+   },
+   {
+    "date": "2026-01-18T00:00:00.000Z",
+    "formattedTime": "Jan 18\u2009\u2013\u200924, 2026",
+    "value": 3,
+    "isPartial": false
+   },
+   {
+    "date": "2026-01-25T00:00:00.000Z",
+    "formattedTime": "Jan 25\u2009\u2013\u200931, 2026",
+    "value": 4,
+    "isPartial": false
+   },
+   {
+    "date": "2026-02-01T00:00:00.000Z",
+    "formattedTime": "Feb 1\u2009\u2013\u20097, 2026",
+    "value": 4,
+    "isPartial": false
+   },
+   {
+    "date": "2026-02-08T00:00:00.000Z",
+    "formattedTime": "Feb 8\u2009\u2013\u200914, 2026",
+    "value": 3,
+    "isPartial": false
+   },
+   {
+    "date": "2026-02-15T00:00:00.000Z",
+    "formattedTime": "Feb 15\u2009\u2013\u200921, 2026",
+    "value": 5,
+    "isPartial": false
+   },
+   {
+    "date": "2026-02-22T00:00:00.000Z",
+    "formattedTime": "Feb 22\u2009\u2013\u200928, 2026",
+    "value": 4,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-01T00:00:00.000Z",
+    "formattedTime": "Mar 1\u2009\u2013\u20097, 2026",
+    "value": 5,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-08T00:00:00.000Z",
+    "formattedTime": "Mar 8\u2009\u2013\u200914, 2026",
+    "value": 4,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-15T00:00:00.000Z",
+    "formattedTime": "Mar 15\u2009\u2013\u200921, 2026",
+    "value": 4,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-22T00:00:00.000Z",
+    "formattedTime": "Mar 22\u2009\u2013\u200928, 2026",
+    "value": 4,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-29T00:00:00.000Z",
+    "formattedTime": "Mar 29\u2009\u2013\u2009Apr 4, 2026",
+    "value": 4,
+    "isPartial": false
+   },
+   {
+    "date": "2026-04-05T00:00:00.000Z",
+    "formattedTime": "Apr 5\u2009\u2013\u200911, 2026",
+    "value": 5,
+    "isPartial": false
+   },
+   {
+    "date": "2026-04-12T00:00:00.000Z",
+    "formattedTime": "Apr 12\u2009\u2013\u200918, 2026",
+    "value": 5,
+    "isPartial": false
+   },
+   {
+    "date": "2026-04-19T00:00:00.000Z",
+    "formattedTime": "Apr 19\u2009\u2013\u200925, 2026",
+    "value": 4,
+    "isPartial": false
+   },
+   {
+    "date": "2026-04-26T00:00:00.000Z",
+    "formattedTime": "Apr 26\u2009\u2013\u2009May 2, 2026",
+    "value": 4,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-03T00:00:00.000Z",
+    "formattedTime": "May 3\u2009\u2013\u20099, 2026",
+    "value": 4,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-10T00:00:00.000Z",
+    "formattedTime": "May 10\u2009\u2013\u200916, 2026",
+    "value": 4,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-17T00:00:00.000Z",
+    "formattedTime": "May 17\u2009\u2013\u200923, 2026",
+    "value": 5,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-24T00:00:00.000Z",
+    "formattedTime": "May 24\u2009\u2013\u200930, 2026",
+    "value": 7,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-31T00:00:00.000Z",
+    "formattedTime": "May 31\u2009\u2013\u2009Jun 6, 2026",
+    "value": 7,
+    "isPartial": false
+   },
+   {
+    "date": "2026-06-07T00:00:00.000Z",
+    "formattedTime": "Jun 7\u2009\u2013\u200913, 2026",
+    "value": 8,
+    "isPartial": false
+   },
+   {
+    "date": "2026-06-14T00:00:00.000Z",
+    "formattedTime": "Jun 14\u2009\u2013\u200920, 2026",
+    "value": 9,
+    "isPartial": false
+   },
+   {
+    "date": "2026-06-21T00:00:00.000Z",
+    "formattedTime": "Jun 21\u2009\u2013\u200927, 2026",
+    "value": 8,
+    "isPartial": false
+   },
+   {
+    "date": "2026-06-28T00:00:00.000Z",
+    "formattedTime": "Jun 28\u2009\u2013\u2009Jul 4, 2026",
+    "value": 5,
+    "isPartial": false
+   },
+   {
+    "date": "2026-07-05T00:00:00.000Z",
+    "formattedTime": "Jul 5\u2009\u2013\u200911, 2026",
+    "value": 6,
+    "isPartial": false
+   },
+   {
+    "date": "2026-07-12T00:00:00.000Z",
+    "formattedTime": "Jul 12\u2009\u2013\u200918, 2026",
+    "value": 4,
+    "isPartial": false
+   },
+   {
+    "date": "2026-07-19T00:00:00.000Z",
+    "formattedTime": "Jul 19\u2009\u2013\u200925, 2026",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2026-07-26T00:00:00.000Z",
+    "formattedTime": "Jul 26\u2009\u2013\u2009Aug 1, 2026",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-02T00:00:00.000Z",
+    "formattedTime": "Aug 2\u2009\u2013\u20098, 2026",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-09T00:00:00.000Z",
+    "formattedTime": "Aug 9\u2009\u2013\u200915, 2026",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-16T00:00:00.000Z",
+    "formattedTime": "Aug 16\u2009\u2013\u200922, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-23T00:00:00.000Z",
+    "formattedTime": "Aug 23\u2009\u2013\u200929, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-30T00:00:00.000Z",
+    "formattedTime": "Aug 30\u2009\u2013\u2009Sep 5, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-09-06T00:00:00.000Z",
+    "formattedTime": "Sep 6\u2009\u2013\u200912, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-09-13T00:00:00.000Z",
+    "formattedTime": "Sep 13\u2009\u2013\u200919, 2026",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2026-09-20T00:00:00.000Z",
+    "formattedTime": "Sep 20\u2009\u2013\u200926, 2026",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2026-09-27T00:00:00.000Z",
+    "formattedTime": "Sep 27\u2009\u2013\u2009Oct 3, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-10-04T00:00:00.000Z",
+    "formattedTime": "Oct 4\u2009\u2013\u200910, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-10-11T00:00:00.000Z",
+    "formattedTime": "Oct 11\u2009\u2013\u200917, 2026",
+    "value": 1,
+    "isPartial": true
+   }
+  ],
+  "interestByRegion": [
+   {
+    "geoCode": "US-WY",
+    "geoName": "Wyoming",
+    "value": 100
+   },
+   {
+    "geoCode": "US-KS",
+    "geoName": "Kansas",
+    "value": 25
+   },
+   {
+    "geoCode": "US-WA",
+    "geoName": "Washington",
+    "value": 16
+   },
+   {
+    "geoCode": "US-MA",
+    "geoName": "Massachusetts",
+    "value": 14
+   },
+   {
+    "geoCode": "US-VA",
+    "geoName": "Virginia",
+    "value": 14
+   },
+   {
+    "geoCode": "US-CA",
+    "geoName": "California",
+    "value": 13
+   },
+   {
+    "geoCode": "US-DC",
+    "geoName": "District of Columbia",
+    "value": 12
+   },
+   {
+    "geoCode": "US-NY",
+    "geoName": "New York",
+    "value": 12
+   },
+   {
+    "geoCode": "US-MD",
+    "geoName": "Maryland",
+    "value": 11
+   },
+   {
+    "geoCode": "US-UT",
+    "geoName": "Utah",
+    "value": 10
+   },
+   {
+    "geoCode": "US-CO",
+    "geoName": "Colorado",
+    "value": 10
+   },
+   {
+    "geoCode": "US-IL",
+    "geoName": "Illinois",
+    "value": 10
+   },
+   {
+    "geoCode": "US-NJ",
+    "geoName": "New Jersey",
+    "value": 9
+   },
+   {
+    "geoCode": "US-GA",
+    "geoName": "Georgia",
+    "value": 9
+   },
+   {
+    "geoCode": "US-FL",
+    "geoName": "Florida",
+    "value": 8
+   },
+   {
+    "geoCode": "US-TX",
+    "geoName": "Texas",
+    "value": 8
+   },
+   {
+    "geoCode": "US-PA",
+    "geoName": "Pennsylvania",
+    "value": 8
+   },
+   {
+    "geoCode": "US-NC",
+    "geoName": "North Carolina",
+    "value": 7
+   },
+   {
+    "geoCode": "US-CT",
+    "geoName": "Connecticut",
+    "value": 7
+   },
+   {
+    "geoCode": "US-NV",
+    "geoName": "Nevada",
+    "value": 7
+   },
+   {
+    "geoCode": "US-NH",
+    "geoName": "New Hampshire",
+    "value": 7
+   },
+   {
+    "geoCode": "US-OR",
+    "geoName": "Oregon",
+    "value": 7
+   },
+   {
+    "geoCode": "US-DE",
+    "geoName": "Delaware",
+    "value": 7
+   },
+   {
+    "geoCode": "US-RI",
+    "geoName": "Rhode Island",
+    "value": 7
+   },
+   {
+    "geoCode": "US-MI",
+    "geoName": "Michigan",
+    "value": 7
+   },
+   {
+    "geoCode": "US-NE",
+    "geoName": "Nebraska",
+    "value": 7
+   },
+   {
+    "geoCode": "US-IA",
+    "geoName": "Iowa",
+    "value": 6
+   },
+   {
+    "geoCode": "US-OH",
+    "geoName": "Ohio",
+    "value": 6
+   },
+   {
+    "geoCode": "US-MO",
+    "geoName": "Missouri",
+    "value": 6
+   },
+   {
+    "geoCode": "US-AZ",
+    "geoName": "Arizona",
+    "value": 6
+   },
+   {
+    "geoCode": "US-MN",
+    "geoName": "Minnesota",
+    "value": 6
+   },
+   {
+    "geoCode": "US-AL",
+    "geoName": "Alabama",
+    "value": 6
+   },
+   {
+    "geoCode": "US-LA",
+    "geoName": "Louisiana",
+    "value": 6
+   },
+   {
+    "geoCode": "US-OK",
+    "geoName": "Oklahoma",
+    "value": 6
+   },
+   {
+    "geoCode": "US-WI",
+    "geoName": "Wisconsin",
+    "value": 6
+   },
+   {
+    "geoCode": "US-VT",
+    "geoName": "Vermont",
+    "value": 6
+   },
+   {
+    "geoCode": "US-TN",
+    "geoName": "Tennessee",
+    "value": 5
+   },
+   {
+    "geoCode": "US-MS",
+    "geoName": "Mississippi",
+    "value": 5
+   },
+   {
+    "geoCode": "US-SC",
+    "geoName": "South Carolina",
+    "value": 5
+   },
+   {
+    "geoCode": "US-KY",
+    "geoName": "Kentucky",
+    "value": 5
+   },
+   {
+    "geoCode": "US-ID",
+    "geoName": "Idaho",
+    "value": 5
+   },
+   {
+    "geoCode": "US-WV",
+    "geoName": "West Virginia",
+    "value": 5
+   },
+   {
+    "geoCode": "US-IN",
+    "geoName": "Indiana",
+    "value": 5
+   },
+   {
+    "geoCode": "US-AR",
+    "geoName": "Arkansas",
+    "value": 5
+   },
+   {
+    "geoCode": "US-NM",
+    "geoName": "New Mexico",
+    "value": 5
+   },
+   {
+    "geoCode": "US-ME",
+    "geoName": "Maine",
+    "value": 5
+   },
+   {
+    "geoCode": "US-HI",
+    "geoName": "Hawaii",
+    "value": 4
+   },
+   {
+    "geoCode": "US-SD",
+    "geoName": "South Dakota",
+    "value": 4
+   },
+   {
+    "geoCode": "US-AK",
+    "geoName": "Alaska",
+    "value": 4
+   },
+   {
+    "geoCode": "US-MT",
+    "geoName": "Montana",
+    "value": 3
+   },
+   {
+    "geoCode": "US-ND",
+    "geoName": "North Dakota",
+    "value": 3
+   }
+  ],
+  "relatedQueries": {
+   "top": [
+    {
+     "query": "what is typescript",
+     "value": 100,
+     "formattedValue": "100",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=what+is+typescript&date=today+12-m&geo=US"
+    },
+    {
+     "query": "typescript docs",
+     "value": 99,
+     "formattedValue": "99",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=typescript+docs&date=today+12-m&geo=US"
+    },
+    {
+     "query": "react typescript",
+     "value": 96,
+     "formattedValue": "96",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=react+typescript&date=today+12-m&geo=US"
+    },
+    {
+     "query": "react",
+     "value": 94,
+     "formattedValue": "94",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=react&date=today+12-m&geo=US"
+    },
+    {
+     "query": "javascript",
+     "value": 50,
+     "formattedValue": "50",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=javascript&date=today+12-m&geo=US"
+    },
+    {
+     "query": "typescript news",
+     "value": 45,
+     "formattedValue": "45",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=typescript+news&date=today+12-m&geo=US"
+    },
+    {
+     "query": "typescript types",
+     "value": 38,
+     "formattedValue": "38",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=typescript+types&date=today+12-m&geo=US"
+    },
+    {
+     "query": "npm typescript",
+     "value": 31,
+     "formattedValue": "31",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=npm+typescript&date=today+12-m&geo=US"
+    },
+    {
+     "query": "npm",
+     "value": 30,
+     "formattedValue": "30",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=npm&date=today+12-m&geo=US"
+    },
+    {
+     "query": "typescript online",
+     "value": 27,
+     "formattedValue": "27",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=typescript+online&date=today+12-m&geo=US"
+    },
+    {
+     "query": "typescript array",
+     "value": 26,
+     "formattedValue": "26",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=typescript+array&date=today+12-m&geo=US"
+    },
+    {
+     "query": "typescript class",
+     "value": 25,
+     "formattedValue": "25",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=typescript+class&date=today+12-m&geo=US"
+    },
+    {
+     "query": "typescript interface",
+     "value": 24,
+     "formattedValue": "24",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=typescript+interface&date=today+12-m&geo=US"
+    },
+    {
+     "query": "typescript set",
+     "value": 23,
+     "formattedValue": "23",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=typescript+set&date=today+12-m&geo=US"
+    },
+    {
+     "query": "typescript go",
+     "value": 20,
+     "formattedValue": "20",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=typescript+go&date=today+12-m&geo=US"
+    },
+    {
+     "query": "next.js",
+     "value": 19,
+     "formattedValue": "19",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=next.js&date=today+12-m&geo=US"
+    },
+    {
+     "query": "typescript map",
+     "value": 19,
+     "formattedValue": "19",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=typescript+map&date=today+12-m&geo=US"
+    },
+    {
+     "query": "typescript version",
+     "value": 19,
+     "formattedValue": "19",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=typescript+version&date=today+12-m&geo=US"
+    },
+    {
+     "query": "vite",
+     "value": 17,
+     "formattedValue": "17",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=vite&date=today+12-m&geo=US"
+    },
+    {
+     "query": "install typescript",
+     "value": 15,
+     "formattedValue": "15",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=install+typescript&date=today+12-m&geo=US"
+    },
+    {
+     "query": "typescript tutorial",
+     "value": 13,
+     "formattedValue": "13",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=typescript+tutorial&date=today+12-m&geo=US"
+    },
+    {
+     "query": "record typescript",
+     "value": 12,
+     "formattedValue": "12",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=record+typescript&date=today+12-m&geo=US"
+    },
+    {
+     "query": "typescript vs javascript",
+     "value": 9,
+     "formattedValue": "9",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=typescript+vs+javascript&date=today+12-m&geo=US"
+    },
+    {
+     "query": "typescript enum",
+     "value": 9,
+     "formattedValue": "9",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=typescript+enum&date=today+12-m&geo=US"
+    },
+    {
+     "query": "walmart near me",
+     "value": 8,
+     "formattedValue": "8",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=walmart+near+me&date=today+12-m&geo=US"
+    }
+   ],
+   "rising": [
+    {
+     "query": "walmart near me",
+     "value": 91700,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=walmart+near+me&date=today+12-m&geo=US"
+    },
+    {
+     "query": "api design principles",
+     "value": 4500,
+     "formattedValue": "+4,500%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=api+design+principles&date=today+12-m&geo=US"
+    },
+    {
+     "query": "docker containerization",
+     "value": 4350,
+     "formattedValue": "+4,350%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=docker+containerization&date=today+12-m&geo=US"
+    },
+    {
+     "query": "database optimization",
+     "value": 4100,
+     "formattedValue": "+4,100%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=database+optimization&date=today+12-m&geo=US"
+    },
+    {
+     "query": "lidl near me",
+     "value": 4050,
+     "formattedValue": "+4,050%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=lidl+near+me&date=today+12-m&geo=US"
+    },
+    {
+     "query": "kubernetes orchestration",
+     "value": 3700,
+     "formattedValue": "+3,700%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=kubernetes+orchestration&date=today+12-m&geo=US"
+    },
+    {
+     "query": "typescript docs",
+     "value": 2250,
+     "formattedValue": "+2,250%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=typescript+docs&date=today+12-m&geo=US"
+    },
+    {
+     "query": "top tourist attractions in paris",
+     "value": 1400,
+     "formattedValue": "+1,400%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=top+tourist+attractions+in+paris&date=today+12-m&geo=US"
+    },
+    {
+     "query": "typescript news",
+     "value": 600,
+     "formattedValue": "+600%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=typescript+news&date=today+12-m&geo=US"
+    },
+    {
+     "query": "next.js",
+     "value": 400,
+     "formattedValue": "+400%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=next.js&date=today+12-m&geo=US"
+    },
+    {
+     "query": "typescript online",
+     "value": 170,
+     "formattedValue": "+170%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=typescript+online&date=today+12-m&geo=US"
+    },
+    {
+     "query": "typescript go",
+     "value": 140,
+     "formattedValue": "+140%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=typescript+go&date=today+12-m&geo=US"
+    },
+    {
+     "query": "what is typescript",
+     "value": 130,
+     "formattedValue": "+130%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=what+is+typescript&date=today+12-m&geo=US"
+    },
+    {
+     "query": "typescript tutorial",
+     "value": 90,
+     "formattedValue": "+90%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=typescript+tutorial&date=today+12-m&geo=US"
+    },
+    {
+     "query": "typescript version",
+     "value": 70,
+     "formattedValue": "+70%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=typescript+version&date=today+12-m&geo=US"
+    },
+    {
+     "query": "vite",
+     "value": 60,
+     "formattedValue": "+60%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=vite&date=today+12-m&geo=US"
+    }
+   ]
+  },
+  "scrapedAt": "2026-10-13T07:19:28.834Z",
+  "shareOfSearchPct": 3.3,
+  "rankInComparison": 4
+ },
+ {
+  "keyword": "golang",
+  "status": "ok",
+  "geo": "US",
+  "timeRange": "today 12-m",
+  "category": 0,
+  "searchType": "web",
+  "scale": "shared",
+  "comparisonGroup": [
+   "python",
+   "javascript",
+   "rust",
+   "typescript",
+   "golang"
+  ],
+  "hasData": true,
+  "pointCount": 53,
+  "average": 2.1,
+  "latestValue": 1,
+  "latestDate": "2026-10-04T00:00:00.000Z",
+  "peakValue": 6,
+  "peakDate": "2026-01-18T00:00:00.000Z",
+  "recentChangePct": 75,
+  "recentWindowPoints": 4,
+  "trendChangePct": -50.6,
+  "direction": "falling",
+  "yearOverYearChangePct": null,
+  "peakMonth": null,
+  "seasonalityStrength": null,
+  "volatility": 0.59,
+  "zeroShare": 0,
+  "topRegion": "Wyoming",
+  "breakoutQueries": [
+   "electric cars",
+   "cheap flights new york",
+   "best laptop 2026",
+   "healthy meal prep",
+   "air purifier review",
+   "fitness tracker review",
+   "home insurance quotes",
+   "dog training tips",
+   "electric bike review",
+   "pet insurance cost"
+  ],
+  "topRisingQuery": "electric cars",
+  "trendsUrl": "https://trends.google.com/trends/explore?date=today+12-m&q=python%2Cjavascript%2Crust%2Ctypescript%2Cgolang&geo=US",
+  "interestOverTime": [
+   {
+    "date": "2025-10-12T00:00:00.000Z",
+    "formattedTime": "Oct 12\u2009\u2013\u200918, 2025",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2025-10-19T00:00:00.000Z",
+    "formattedTime": "Oct 19\u2009\u2013\u200925, 2025",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2025-10-26T00:00:00.000Z",
+    "formattedTime": "Oct 26\u2009\u2013\u2009Nov 1, 2025",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-02T00:00:00.000Z",
+    "formattedTime": "Nov 2\u2009\u2013\u20098, 2025",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-09T00:00:00.000Z",
+    "formattedTime": "Nov 9\u2009\u2013\u200915, 2025",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-16T00:00:00.000Z",
+    "formattedTime": "Nov 16\u2009\u2013\u200922, 2025",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-23T00:00:00.000Z",
+    "formattedTime": "Nov 23\u2009\u2013\u200929, 2025",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2025-11-30T00:00:00.000Z",
+    "formattedTime": "Nov 30\u2009\u2013\u2009Dec 6, 2025",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2025-12-07T00:00:00.000Z",
+    "formattedTime": "Dec 7\u2009\u2013\u200913, 2025",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2025-12-14T00:00:00.000Z",
+    "formattedTime": "Dec 14\u2009\u2013\u200920, 2025",
+    "value": 5,
+    "isPartial": false
+   },
+   {
+    "date": "2025-12-21T00:00:00.000Z",
+    "formattedTime": "Dec 21\u2009\u2013\u200927, 2025",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2025-12-28T00:00:00.000Z",
+    "formattedTime": "Dec 28, 2025\u2009\u2013\u2009Jan 3, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-01-04T00:00:00.000Z",
+    "formattedTime": "Jan 4\u2009\u2013\u200910, 2026",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2026-01-11T00:00:00.000Z",
+    "formattedTime": "Jan 11\u2009\u2013\u200917, 2026",
+    "value": 3,
+    "isPartial": false
+   },
+   {
+    "date": "2026-01-18T00:00:00.000Z",
+    "formattedTime": "Jan 18\u2009\u2013\u200924, 2026",
+    "value": 6,
+    "isPartial": false
+   },
+   {
+    "date": "2026-01-25T00:00:00.000Z",
+    "formattedTime": "Jan 25\u2009\u2013\u200931, 2026",
+    "value": 6,
+    "isPartial": false
+   },
+   {
+    "date": "2026-02-01T00:00:00.000Z",
+    "formattedTime": "Feb 1\u2009\u2013\u20097, 2026",
+    "value": 4,
+    "isPartial": false
+   },
+   {
+    "date": "2026-02-08T00:00:00.000Z",
+    "formattedTime": "Feb 8\u2009\u2013\u200914, 2026",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2026-02-15T00:00:00.000Z",
+    "formattedTime": "Feb 15\u2009\u2013\u200921, 2026",
+    "value": 3,
+    "isPartial": false
+   },
+   {
+    "date": "2026-02-22T00:00:00.000Z",
+    "formattedTime": "Feb 22\u2009\u2013\u200928, 2026",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-01T00:00:00.000Z",
+    "formattedTime": "Mar 1\u2009\u2013\u20097, 2026",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-08T00:00:00.000Z",
+    "formattedTime": "Mar 8\u2009\u2013\u200914, 2026",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-15T00:00:00.000Z",
+    "formattedTime": "Mar 15\u2009\u2013\u200921, 2026",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-22T00:00:00.000Z",
+    "formattedTime": "Mar 22\u2009\u2013\u200928, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-03-29T00:00:00.000Z",
+    "formattedTime": "Mar 29\u2009\u2013\u2009Apr 4, 2026",
+    "value": 3,
+    "isPartial": false
+   },
+   {
+    "date": "2026-04-05T00:00:00.000Z",
+    "formattedTime": "Apr 5\u2009\u2013\u200911, 2026",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2026-04-12T00:00:00.000Z",
+    "formattedTime": "Apr 12\u2009\u2013\u200918, 2026",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2026-04-19T00:00:00.000Z",
+    "formattedTime": "Apr 19\u2009\u2013\u200925, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-04-26T00:00:00.000Z",
+    "formattedTime": "Apr 26\u2009\u2013\u2009May 2, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-03T00:00:00.000Z",
+    "formattedTime": "May 3\u2009\u2013\u20099, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-10T00:00:00.000Z",
+    "formattedTime": "May 10\u2009\u2013\u200916, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-17T00:00:00.000Z",
+    "formattedTime": "May 17\u2009\u2013\u200923, 2026",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-24T00:00:00.000Z",
+    "formattedTime": "May 24\u2009\u2013\u200930, 2026",
+    "value": 3,
+    "isPartial": false
+   },
+   {
+    "date": "2026-05-31T00:00:00.000Z",
+    "formattedTime": "May 31\u2009\u2013\u2009Jun 6, 2026",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2026-06-07T00:00:00.000Z",
+    "formattedTime": "Jun 7\u2009\u2013\u200913, 2026",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2026-06-14T00:00:00.000Z",
+    "formattedTime": "Jun 14\u2009\u2013\u200920, 2026",
+    "value": 4,
+    "isPartial": false
+   },
+   {
+    "date": "2026-06-21T00:00:00.000Z",
+    "formattedTime": "Jun 21\u2009\u2013\u200927, 2026",
+    "value": 3,
+    "isPartial": false
+   },
+   {
+    "date": "2026-06-28T00:00:00.000Z",
+    "formattedTime": "Jun 28\u2009\u2013\u2009Jul 4, 2026",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2026-07-05T00:00:00.000Z",
+    "formattedTime": "Jul 5\u2009\u2013\u200911, 2026",
+    "value": 4,
+    "isPartial": false
+   },
+   {
+    "date": "2026-07-12T00:00:00.000Z",
+    "formattedTime": "Jul 12\u2009\u2013\u200918, 2026",
+    "value": 2,
+    "isPartial": false
+   },
+   {
+    "date": "2026-07-19T00:00:00.000Z",
+    "formattedTime": "Jul 19\u2009\u2013\u200925, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-07-26T00:00:00.000Z",
+    "formattedTime": "Jul 26\u2009\u2013\u2009Aug 1, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-02T00:00:00.000Z",
+    "formattedTime": "Aug 2\u2009\u2013\u20098, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-09T00:00:00.000Z",
+    "formattedTime": "Aug 9\u2009\u2013\u200915, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-16T00:00:00.000Z",
+    "formattedTime": "Aug 16\u2009\u2013\u200922, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-23T00:00:00.000Z",
+    "formattedTime": "Aug 23\u2009\u2013\u200929, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-08-30T00:00:00.000Z",
+    "formattedTime": "Aug 30\u2009\u2013\u2009Sep 5, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-09-06T00:00:00.000Z",
+    "formattedTime": "Sep 6\u2009\u2013\u200912, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-09-13T00:00:00.000Z",
+    "formattedTime": "Sep 13\u2009\u2013\u200919, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-09-20T00:00:00.000Z",
+    "formattedTime": "Sep 20\u2009\u2013\u200926, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-09-27T00:00:00.000Z",
+    "formattedTime": "Sep 27\u2009\u2013\u2009Oct 3, 2026",
+    "value": 4,
+    "isPartial": false
+   },
+   {
+    "date": "2026-10-04T00:00:00.000Z",
+    "formattedTime": "Oct 4\u2009\u2013\u200910, 2026",
+    "value": 1,
+    "isPartial": false
+   },
+   {
+    "date": "2026-10-11T00:00:00.000Z",
+    "formattedTime": "Oct 11\u2009\u2013\u200917, 2026",
+    "value": 4,
+    "isPartial": true
+   }
+  ],
+  "interestByRegion": [
+   {
+    "geoCode": "US-WY",
+    "geoName": "Wyoming",
+    "value": 100
+   },
+   {
+    "geoCode": "US-KS",
+    "geoName": "Kansas",
+    "value": 72
+   },
+   {
+    "geoCode": "US-WA",
+    "geoName": "Washington",
+    "value": 58
+   },
+   {
+    "geoCode": "US-CA",
+    "geoName": "California",
+    "value": 56
+   },
+   {
+    "geoCode": "US-NY",
+    "geoName": "New York",
+    "value": 41
+   },
+   {
+    "geoCode": "US-VA",
+    "geoName": "Virginia",
+    "value": 38
+   },
+   {
+    "geoCode": "US-CO",
+    "geoName": "Colorado",
+    "value": 35
+   },
+   {
+    "geoCode": "US-UT",
+    "geoName": "Utah",
+    "value": 33
+   },
+   {
+    "geoCode": "US-MA",
+    "geoName": "Massachusetts",
+    "value": 33
+   },
+   {
+    "geoCode": "US-LA",
+    "geoName": "Louisiana",
+    "value": 32
+   },
+   {
+    "geoCode": "US-MD",
+    "geoName": "Maryland",
+    "value": 32
+   },
+   {
+    "geoCode": "US-DC",
+    "geoName": "District of Columbia",
+    "value": 30
+   },
+   {
+    "geoCode": "US-IL",
+    "geoName": "Illinois",
+    "value": 29
+   },
+   {
+    "geoCode": "US-NH",
+    "geoName": "New Hampshire",
+    "value": 28
+   },
+   {
+    "geoCode": "US-OR",
+    "geoName": "Oregon",
+    "value": 28
+   },
+   {
+    "geoCode": "US-DE",
+    "geoName": "Delaware",
+    "value": 26
+   },
+   {
+    "geoCode": "US-TX",
+    "geoName": "Texas",
+    "value": 25
+   },
+   {
+    "geoCode": "US-AZ",
+    "geoName": "Arizona",
+    "value": 23
+   },
+   {
+    "geoCode": "US-TN",
+    "geoName": "Tennessee",
+    "value": 23
+   },
+   {
+    "geoCode": "US-NC",
+    "geoName": "North Carolina",
+    "value": 23
+   },
+   {
+    "geoCode": "US-NV",
+    "geoName": "Nevada",
+    "value": 23
+   },
+   {
+    "geoCode": "US-GA",
+    "geoName": "Georgia",
+    "value": 23
+   },
+   {
+    "geoCode": "US-RI",
+    "geoName": "Rhode Island",
+    "value": 22
+   },
+   {
+    "geoCode": "US-MO",
+    "geoName": "Missouri",
+    "value": 22
+   },
+   {
+    "geoCode": "US-PA",
+    "geoName": "Pennsylvania",
+    "value": 22
+   },
+   {
+    "geoCode": "US-MN",
+    "geoName": "Minnesota",
+    "value": 22
+   },
+   {
+    "geoCode": "US-CT",
+    "geoName": "Connecticut",
+    "value": 21
+   },
+   {
+    "geoCode": "US-OK",
+    "geoName": "Oklahoma",
+    "value": 21
+   },
+   {
+    "geoCode": "US-NJ",
+    "geoName": "New Jersey",
+    "value": 21
+   },
+   {
+    "geoCode": "US-KY",
+    "geoName": "Kentucky",
+    "value": 21
+   },
+   {
+    "geoCode": "US-AL",
+    "geoName": "Alabama",
+    "value": 21
+   },
+   {
+    "geoCode": "US-FL",
+    "geoName": "Florida",
+    "value": 21
+   },
+   {
+    "geoCode": "US-WV",
+    "geoName": "West Virginia",
+    "value": 20
+   },
+   {
+    "geoCode": "US-IA",
+    "geoName": "Iowa",
+    "value": 20
+   },
+   {
+    "geoCode": "US-OH",
+    "geoName": "Ohio",
+    "value": 20
+   },
+   {
+    "geoCode": "US-VT",
+    "geoName": "Vermont",
+    "value": 19
+   },
+   {
+    "geoCode": "US-MS",
+    "geoName": "Mississippi",
+    "value": 19
+   },
+   {
+    "geoCode": "US-IN",
+    "geoName": "Indiana",
+    "value": 19
+   },
+   {
+    "geoCode": "US-SC",
+    "geoName": "South Carolina",
+    "value": 19
+   },
+   {
+    "geoCode": "US-AR",
+    "geoName": "Arkansas",
+    "value": 19
+   },
+   {
+    "geoCode": "US-ME",
+    "geoName": "Maine",
+    "value": 18
+   },
+   {
+    "geoCode": "US-NM",
+    "geoName": "New Mexico",
+    "value": 18
+   },
+   {
+    "geoCode": "US-NE",
+    "geoName": "Nebraska",
+    "value": 18
+   },
+   {
+    "geoCode": "US-MI",
+    "geoName": "Michigan",
+    "value": 18
+   },
+   {
+    "geoCode": "US-ID",
+    "geoName": "Idaho",
+    "value": 18
+   },
+   {
+    "geoCode": "US-SD",
+    "geoName": "South Dakota",
+    "value": 16
+   },
+   {
+    "geoCode": "US-WI",
+    "geoName": "Wisconsin",
+    "value": 16
+   },
+   {
+    "geoCode": "US-HI",
+    "geoName": "Hawaii",
+    "value": 14
+   },
+   {
+    "geoCode": "US-MT",
+    "geoName": "Montana",
+    "value": 13
+   },
+   {
+    "geoCode": "US-ND",
+    "geoName": "North Dakota",
+    "value": 11
+   },
+   {
+    "geoCode": "US-AK",
+    "geoName": "Alaska",
+    "value": 9
+   }
+  ],
+  "relatedQueries": {
+   "top": [
+    {
+     "query": "go golang",
+     "value": 100,
+     "formattedValue": "100",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=go+golang&date=today+12-m&geo=US"
+    },
+    {
+     "query": "golang github",
+     "value": 68,
+     "formattedValue": "68",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=golang+github&date=today+12-m&geo=US"
+    },
+    {
+     "query": "what is golang",
+     "value": 55,
+     "formattedValue": "55",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=what+is+golang&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python",
+     "value": 49,
+     "formattedValue": "49",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python&date=today+12-m&geo=US"
+    },
+    {
+     "query": "learn golang",
+     "value": 42,
+     "formattedValue": "42",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=learn+golang&date=today+12-m&geo=US"
+    },
+    {
+     "query": "golang news",
+     "value": 42,
+     "formattedValue": "42",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=golang+news&date=today+12-m&geo=US"
+    },
+    {
+     "query": "openai",
+     "value": 31,
+     "formattedValue": "31",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=openai&date=today+12-m&geo=US"
+    },
+    {
+     "query": "golang time",
+     "value": 28,
+     "formattedValue": "28",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=golang+time&date=today+12-m&geo=US"
+    },
+    {
+     "query": "golang map",
+     "value": 20,
+     "formattedValue": "20",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=golang+map&date=today+12-m&geo=US"
+    },
+    {
+     "query": "docker",
+     "value": 20,
+     "formattedValue": "20",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=docker&date=today+12-m&geo=US"
+    },
+    {
+     "query": "install golang",
+     "value": 19,
+     "formattedValue": "19",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=install+golang&date=today+12-m&geo=US"
+    },
+    {
+     "query": "golang download",
+     "value": 19,
+     "formattedValue": "19",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=golang+download&date=today+12-m&geo=US"
+    },
+    {
+     "query": "golang documentation",
+     "value": 18,
+     "formattedValue": "18",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=golang+documentation&date=today+12-m&geo=US"
+    },
+    {
+     "query": "golang struct",
+     "value": 18,
+     "formattedValue": "18",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=golang+struct&date=today+12-m&geo=US"
+    },
+    {
+     "query": "golang make",
+     "value": 16,
+     "formattedValue": "16",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=golang+make&date=today+12-m&geo=US"
+    },
+    {
+     "query": "golang set",
+     "value": 16,
+     "formattedValue": "16",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=golang+set&date=today+12-m&geo=US"
+    },
+    {
+     "query": "golang version",
+     "value": 15,
+     "formattedValue": "15",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=golang+version&date=today+12-m&geo=US"
+    },
+    {
+     "query": "music",
+     "value": 15,
+     "formattedValue": "15",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=music&date=today+12-m&geo=US"
+    },
+    {
+     "query": "hotel",
+     "value": 13,
+     "formattedValue": "13",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=hotel&date=today+12-m&geo=US"
+    },
+    {
+     "query": "microsoft",
+     "value": 13,
+     "formattedValue": "13",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=microsoft&date=today+12-m&geo=US"
+    },
+    {
+     "query": "golang jobs",
+     "value": 12,
+     "formattedValue": "12",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=golang+jobs&date=today+12-m&geo=US"
+    },
+    {
+     "query": "camera",
+     "value": 12,
+     "formattedValue": "12",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=camera&date=today+12-m&geo=US"
+    },
+    {
+     "query": "coffee",
+     "value": 11,
+     "formattedValue": "11",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=coffee&date=today+12-m&geo=US"
+    },
+    {
+     "query": "golang programming",
+     "value": 11,
+     "formattedValue": "11",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=golang+programming&date=today+12-m&geo=US"
+    },
+    {
+     "query": "electric cars",
+     "value": 9,
+     "formattedValue": "9",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=electric+cars&date=today+12-m&geo=US"
+    }
+   ],
+   "rising": [
+    {
+     "query": "electric cars",
+     "value": 80150,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=electric+cars&date=today+12-m&geo=US"
+    },
+    {
+     "query": "cheap flights new york",
+     "value": 42100,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=cheap+flights+new+york&date=today+12-m&geo=US"
+    },
+    {
+     "query": "best laptop 2026",
+     "value": 26750,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=best+laptop+2026&date=today+12-m&geo=US"
+    },
+    {
+     "query": "healthy meal prep",
+     "value": 24750,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=healthy+meal+prep&date=today+12-m&geo=US"
+    },
+    {
+     "query": "air purifier review",
+     "value": 23150,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=air+purifier+review&date=today+12-m&geo=US"
+    },
+    {
+     "query": "fitness tracker review",
+     "value": 22600,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=fitness+tracker+review&date=today+12-m&geo=US"
+    },
+    {
+     "query": "home insurance quotes",
+     "value": 21700,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=home+insurance+quotes&date=today+12-m&geo=US"
+    },
+    {
+     "query": "dog training tips",
+     "value": 20000,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=dog+training+tips&date=today+12-m&geo=US"
+    },
+    {
+     "query": "electric bike review",
+     "value": 18900,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=electric+bike+review&date=today+12-m&geo=US"
+    },
+    {
+     "query": "pet insurance cost",
+     "value": 18550,
+     "formattedValue": "Breakout",
+     "isBreakout": true,
+     "link": "https://trends.google.com/trends/explore?q=pet+insurance+cost&date=today+12-m&geo=US"
+    },
+    {
+     "query": "camera",
+     "value": 1250,
+     "formattedValue": "+1,250%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=camera&date=today+12-m&geo=US"
+    },
+    {
+     "query": "coffee",
+     "value": 1050,
+     "formattedValue": "+1,050%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=coffee&date=today+12-m&geo=US"
+    },
+    {
+     "query": "openai",
+     "value": 1000,
+     "formattedValue": "+1,000%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=openai&date=today+12-m&geo=US"
+    },
+    {
+     "query": "golang news",
+     "value": 900,
+     "formattedValue": "+900%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=golang+news&date=today+12-m&geo=US"
+    },
+    {
+     "query": "music",
+     "value": 800,
+     "formattedValue": "+800%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=music&date=today+12-m&geo=US"
+    },
+    {
+     "query": "learn golang",
+     "value": 800,
+     "formattedValue": "+800%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=learn+golang&date=today+12-m&geo=US"
+    },
+    {
+     "query": "hotel",
+     "value": 800,
+     "formattedValue": "+800%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=hotel&date=today+12-m&geo=US"
+    },
+    {
+     "query": "microsoft",
+     "value": 400,
+     "formattedValue": "+400%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=microsoft&date=today+12-m&geo=US"
+    },
+    {
+     "query": "golang documentation",
+     "value": 400,
+     "formattedValue": "+400%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=golang+documentation&date=today+12-m&geo=US"
+    },
+    {
+     "query": "python",
+     "value": 200,
+     "formattedValue": "+200%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=python&date=today+12-m&geo=US"
+    },
+    {
+     "query": "golang github",
+     "value": 150,
+     "formattedValue": "+150%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=golang+github&date=today+12-m&geo=US"
+    },
+    {
+     "query": "golang download",
+     "value": 130,
+     "formattedValue": "+130%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=golang+download&date=today+12-m&geo=US"
+    },
+    {
+     "query": "golang jobs",
+     "value": 100,
+     "formattedValue": "+100%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=golang+jobs&date=today+12-m&geo=US"
+    },
+    {
+     "query": "what is golang",
+     "value": 100,
+     "formattedValue": "+100%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=what+is+golang&date=today+12-m&geo=US"
+    },
+    {
+     "query": "docker",
+     "value": 50,
+     "formattedValue": "+50%",
+     "isBreakout": false,
+     "link": "https://trends.google.com/trends/explore?q=docker&date=today+12-m&geo=US"
+    }
+   ]
+  },
+  "scrapedAt": "2026-10-13T07:19:28.834Z",
+  "shareOfSearchPct": 2,
+  "rankInComparison": 5
+ }
+]
