@@ -40,6 +40,24 @@ A reader asked whether the three small sites that were cheapest on 2 Oct keep th
   - Persistence is also reported for hotels where all three picks are listed on both dates (9 hotels qualify on 2 Oct alone, so that subset will be small).
 - The results will be added here after each pull, whatever they show.
 
+**Results:**
+- **9 Oct (out of sample): PASS.** 45 eligible hotels, full gap 13.5%. The three picks saved 10.1%, which is 75% of the gap (95% CI 56–90%). Super.com alone: 47%.
+- **17 Oct (out of sample): INCONCLUSIVE.** This pull is one day late: the scheduled 16 Oct job failed, so the same inputs were run on 17 Oct. 48 eligible hotels, full gap 15.8%. The three picks saved 10.3%, 65% of the gap (95% CI 48–82%). The point estimate is above 50%, but the lower bound isn't.
+- **Verdict under the two-date rule: inconclusive.** One PASS and one INCONCLUSIVE doesn't count as "keeps most of the gap", so the advice stays: compare every site. Google's headline price, which matched the cheapest site on 42 of 47 hotels on 2 Oct, does that comparison for you.
+- **Persistence (same cheapest site on both dates):**
+
+  | Dates | Hotels | Same cheapest site | Chance |
+  |---|---|---|---|
+  | 2 → 9 Oct | 30 | 63% | 5% |
+  | 9 → 17 Oct | 25 | 56% | 13% |
+  | 2 → 17 Oct | 25 | 40% | 5% |
+
+  The undercutter repeats far more often than chance, and less often as the gap between pulls grows.
+- **Like-for-like** (a reader's question, 16 Oct): [`like_for_like.py`](like_for_like.py) recomputes everything on only the hotels eligible on every date.
+  - On the 30 hotels shared by 2 and 9 Oct, the full gap fell from 17.8% to 13.4%. On the 20 hotels present on all three dates, it went 18.7%, 13.7%, 13.5%. So the drop after 2 Oct is a price change, not only Google's top 10 rotating.
+  - On those 20 hotels, the three picks captured 75%, 88% and 77% of the gap.
+  - On the 25 hotels shared by 9 and 17 Oct, the picks captured 70% and 82%. The lower 65% on the full 17 Oct set comes from hotels that weren't in the 9 Oct set.
+
 Data: [`data/hotels-booking-site-prices-2026-10-02.csv`](data/hotels-booking-site-prices-2026-10-02.csv), one row per hotel × site.
 
 ## 2. What's the cheapest day to fly? (prices seen 2 Oct 2026)
@@ -56,6 +74,28 @@ Data: [`data/hotels-booking-site-prices-2026-10-02.csv`](data/hotels-booking-sit
   - Friday is still the priciest, but on only 2 Fridays × 5 routes.
 
 **Caveats:** 5 routes, one month that includes US Thanksgiving, prices seen on one day.
+
+**Lead-time check (the same 150 searches pulled on 2, 9 and 17 Oct):**
+A reader pointed out that with one collection day, 1 Nov is both "a Sunday" and "closest to departure". Three pulls let weekdays be compared at the same lead time. Script: [`lead_time.py`](lead_time.py).
+- **Same flights, later pull:**
+  - 2 → 9 Oct: median change 0.0% (45 up, 57 down, 48 unchanged).
+  - 9 → 17 Oct: median +5.2%, mean +12.3% (84 up, 41 down, 25 unchanged).
+  - Prices held for a week, then rose. 2 → 17 Oct by route: LHR→JFK +15.1%, LAX→NRT +5.8%, SFO→HNL +5.6%, JFK→LAX 0.0%, ORD→MIA −2.8%.
+- **Weekday at equal lead time:**
+  - Method: log(fare) ~ route + weekday + 7-day lead-time bucket, on 450 fares. Effects are against the average weekday. 90% intervals come from resampling departure dates.
+
+  | Day | All of November | 1–19 November |
+  |---|---|---|
+  | Mon | −7.8% (−12.9 to −2.9) | −7.2% (−13.1 to −1.6) |
+  | Tue | −10.1% (−13.4 to −7.1) | −7.5% (−10.7 to −4.4) |
+  | Wed | −5.0% (−8.8 to −1.1) | −1.4% (−5.2 to +4.4) |
+  | Thu | +0.2% (−4.5 to +5.8) | +4.3% (−1.9 to +13.7) |
+  | Fri | **+12.0%** (+4.4 to +22.5) | **+8.1%** (+5.5 to +10.6) |
+  | Sat | +5.4% (−4.9 to +18.3) | −2.2% (−4.6 to +0.2) |
+  | Sun | +7.4% (+2.7 to +12.0) | +7.1% (+4.1 to +10.2) |
+
+- **Friday is still the priciest day at equal lead time**, about 8–12% above the average weekday. The headline +19.7% used a different baseline (the route median) and mixed in lead time and Thanksgiving.
+- **Monday vs Tuesday:** +2.5% (−4.0 to +9.2) for all of November and +0.4% (−7.1 to +7.9) for 1–19 Nov. That's no detectable difference. Early in the week is cheaper than late in the week, but this data can't say which early day is cheapest.
 
 Data: [`data/flights-cheapest-fare-by-day-2026-10-02.csv`](data/flights-cheapest-fare-by-day-2026-10-02.csv), one row per route × day, with Google's price level and typical range.
 
@@ -91,6 +131,8 @@ One-click setups on Apify (change the city, route or brand to your own):
 - Flights: [Google Flights Scraper on Apify](https://apify.com/kuezi/google-flights-scraper), with a `scanDepartureUntil` date range.
 - Ads: [Google Ads Transparency Scraper on Apify](https://apify.com/kuezi/google-ads-transparency-scraper), with `country: US`, `lastDays: 30` and per-platform/format filters.
 - Trend data for future studies: [Google Trends Scraper on Apify](https://apify.com/kuezi/google-trends-scraper).
+
+Every pull uses the same inputs ([`scripts/flights-input.json`](scripts/flights-input.json), [`scripts/hotels-input.json`](scripts/hotels-input.json)), and the CSVs are built with [`scripts/build_flights.py`](scripts/build_flights.py) and [`scripts/build_hotels.py`](scripts/build_hotels.py). Pulls: 2, 9 and 17 Oct 2026.
 
 Booking links were removed from the public data because they contain ad-tracking parameters.
 

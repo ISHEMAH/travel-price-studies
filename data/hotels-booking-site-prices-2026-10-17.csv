@@ -1,0 +1,1234 @@
+city,hotel,hotel_class,guest_rating,review_count,google_lead_price_per_night,site,site_price_per_night,site_total_price,check_in,check_out,nights,adults,currency,collected_utc
+London,a&o London Docklands Riverside,4,3.2,413,61,aohostels.com,61,183,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,Booking.com,61,183,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,Hostelworld,77,232,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,Vio.com,108,323,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,goseek.com,108,323,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,Etrip.net,108,323,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,Hotels.com,110,330,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,Stayforlong.com,111,333,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,Expedia.com,115,345,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,Travelocity.com,115,345,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,Orbitz.com,115,345,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,CheapTickets.com,115,345,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,Agoda,116,349,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,Catchit.com,116,347,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,TravelUp,117,351,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,KAYAK.com,118,355,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,Hotelscombined.com,118,355,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,momondo.com,118,355,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,Priceline,119,357,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,eDreams,119,356,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,HomeToGo,120,360,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,Super.com,122,367,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,Trip.com,127,380,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,Qantas Hotels,134,403,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,Clicktrip.com,145,436,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,a&o London Docklands Riverside,4,3.2,413,61,Tripening Hotels,168,505,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,Super.com,215,645,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,Traveluro,218,655,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,trivago DEALS,220,660,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,Vio.com,223,670,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,dealbase.com,223,670,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,Kiwi.com,226,679,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,Long Stay Discounts,231,692,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,Stayforlong.com,238,713,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,Billabook.com,252,757,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,Catchit.com,269,807,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,Luxury Escapes,277,832,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,ZenHotels.com,288,863,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,"The Tower Hotel, by Thistle",290,871,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,Booking.com,290,871,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,Priceline,290,871,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,Agoda,290,871,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,Expedia.com,291,873,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,Hotels.com,291,873,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,KAYAK.com,291,874,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,Travelocity.com,291,873,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,TravelUp,291,873,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,HomeToGo,291,874,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,Bluepillow.com,291,874,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,Orbitz.com,291,873,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,Hotelscombined.com,291,874,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,CheapTickets.com,291,873,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,momondo.com,291,874,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,lastminute.com,311,934,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,Clicktrip.com,327,981,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Tower Hotel, by Thistle",4,4.1,12523,215,Hotel prive,341,1024,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Vio.com,176,529,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,goseek.com,176,529,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Etrip.net,176,529,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Traveluro,177,530,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,trivago DEALS,178,533,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Stayforlong.com,178,533,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Billabook.com,184,553,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Prestigia.com,189,568,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Evendo,196,588,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Wego,197,591,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Super.com,202,606,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Novotel London Canary Wharf,203,609,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Booking.com,203,609,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Priceline,203,609,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Agoda,203,609,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Long Stay Discounts,203,609,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Expedia.com,204,611,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Trip.com,204,611,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Skyscanner,204,611,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Travelocity.com,204,611,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Closest Hotel,204,611,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,TravelUp,204,611,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,BusinessHotels.com,204,612,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,HomeToGo,204,612,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Orbitz.com,204,611,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,CheapTickets.com,204,611,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Clicktrip.com,206,618,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,eDreams,209,627,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Luxury Escapes,212,635,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Novotel London Canary Wharf,4,4.5,5166,176,Pilot,221,663,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,goseek.com,275,824,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,Super.com,282,847,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,klook,285,856,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,trivago DEALS,291,873,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,Traveluro,291,873,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,Long Stay Discounts,315,944,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,Evendo,323,969,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,Priceline,324,971,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,Billabook.com,327,982,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,Trip.com,349,1048,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,Agoda,367,1100,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,Booking.com,369,1108,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,Catchit.com,369,1108,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,Expedia.com,370,1110,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,Hotels.com,370,1110,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,Travelocity.com,370,1110,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,Orbitz.com,370,1110,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,CheapTickets.com,370,1110,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,Reserving,420,1260,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,Tripening Hotels,420,1261,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,Suite Stay Club,432,1296,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,Qantas Hotels,445,1335,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"St. James' Court, A Taj Hotel, London",4,4.5,3400,275,Hotel prive,487,1462,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,Vio.com,649,1947,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,Super.com,673,2019,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,dealbase.com,676,2028,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,Stayforlong.com,689,2068,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,trivago DEALS,691,2073,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,Long Stay Discounts,728,2184,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,Prestigia.com,728,2184,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,Billabook.com,747,2242,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,Shangri-La.com,768,2305,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,Booking.com,768,2305,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,Priceline,768,2305,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,Agoda,768,2305,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,Hotels.com,770,2310,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,Trip.com,770,2310,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,TravelUp,770,2310,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,HomeToGo,789,2366,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,ZenHotels.com,796,2389,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,Luxury Escapes,796,2388,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,Catchit.com,858,2573,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,Reserving,860,2581,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,KAYAK.com,868,2603,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,Hotelscombined.com,868,2603,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,momondo.com,868,2603,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,Clicktrip.com,906,2719,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,lastminute.com,924,2771,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,Qantas Hotels,925,2776,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,Tripening Hotels,969,2907,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,Evendo,1011,3033,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"Shangri-La The Shard, London",5,4.6,2892,673,Hotel prive,1060,3181,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,Super.com,234,703,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,Long Stay Discounts,251,754,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,Prestigia.com,268,804,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,Billabook.com,273,818,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,Evendo,312,937,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,parkplaza.com,318,953,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,Booking.com,318,953,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,Expedia.com,318,955,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,Hotels.com,318,955,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,Priceline,318,953,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,Trip.com,318,955,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,Travelocity.com,318,955,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,Closest Hotel,318,955,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,Agoda,318,953,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,TravelUp,318,955,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,Catchit.com,318,955,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,Orbitz.com,318,955,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,goseek.com,318,955,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,dealbase.com,318,955,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,CheapTickets.com,318,955,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,KAYAK.com,319,957,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,HomeToGo,319,957,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,Hotelscombined.com,319,957,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,momondo.com,319,957,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,Pilot,326,979,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,eDreams,328,984,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,Luxury Escapes,330,989,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,Reserving,381,1143,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,Bluepillow.com,382,1146,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Park Plaza London Westminster Bridge,4,4.5,14596,234,Qantas Hotels,383,1148,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Premier Inn London Tolworth hotel,3,4.1,1296,59,Premierinn.com,59,176,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Premier Inn London Tolworth hotel,3,4.1,1296,59,Super.com,62,187,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Premier Inn London Tolworth hotel,3,4.1,1296,59,Vio.com,66,199,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Premier Inn London Tolworth hotel,3,4.1,1296,59,goseek.com,66,199,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Premier Inn London Tolworth hotel,3,4.1,1296,59,Etrip.net,66,199,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Premier Inn London Tolworth hotel,3,4.1,1296,59,Expedia.com,72,215,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Premier Inn London Tolworth hotel,3,4.1,1296,59,Hotels.com,72,215,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Premier Inn London Tolworth hotel,3,4.1,1296,59,Travelocity.com,72,215,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Premier Inn London Tolworth hotel,3,4.1,1296,59,Orbitz.com,72,215,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Premier Inn London Tolworth hotel,3,4.1,1296,59,CheapTickets.com,72,215,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Premier Inn London Tolworth hotel,3,4.1,1296,59,ZenHotels.com,74,221,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Premier Inn London Tolworth hotel,3,4.1,1296,59,Kiwi.com,74,221,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,Premier Inn London Tolworth hotel,3,4.1,1296,59,Stayforlong.com,93,278,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,goseek.com,317,951,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,trivago DEALS,322,965,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,klook,322,965,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,dealbase.com,322,967,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,Traveluro,325,975,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,Super.com,326,978,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,Stayforlong.com,332,995,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,Kiwi.com,333,1000,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,Prestigia.com,348,1045,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,Billabook.com,352,1055,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,Long Stay Discounts,355,1066,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,Evendo,368,1103,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,TravelUp,383,1150,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,"The Royal Horseguards Hotel & One Whitehall Place, London",406,1218,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,Booking.com,406,1218,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,Priceline,406,1218,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,Agoda,406,1218,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,Expedia.com,407,1220,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,Hotels.com,407,1220,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,Travelocity.com,407,1220,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,Closest Hotel,407,1220,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,Orbitz.com,407,1220,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,CheapTickets.com,407,1220,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,KAYAK.com,408,1223,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,BusinessHotels.com,408,1223,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,HomeToGo,408,1223,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,Bluepillow.com,408,1223,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,Hotelscombined.com,408,1223,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,momondo.com,408,1223,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Royal Horseguards Hotel & One Whitehall Place, London",5,4.4,3435,317,Luxury Escapes,421,1264,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,Vio.com,202,607,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,goseek.com,202,607,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,Traveluro,209,628,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,Super.com,221,662,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,Long Stay Discounts,229,686,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,trivago DEALS,246,738,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,Prestigia.com,246,737,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,KAYAK.com,248,744,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,Stayforlong.com,248,743,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,Hotelscombined.com,248,744,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,momondo.com,248,744,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,Booking.com,270,811,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,Priceline,270,811,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,Agoda,270,811,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,Millennium Bailey's Hotel London,270,811,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,Expedia.com,271,813,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,Hotels.com,271,813,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,Trip.com,271,813,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,Travelocity.com,271,813,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,Closest Hotel,271,813,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,TravelUp,271,813,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,HomeToGo,271,814,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,Orbitz.com,271,813,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,CheapTickets.com,271,813,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,Luxury Escapes,282,845,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,eDreams,282,845,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,Pilot,286,859,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,Clicktrip.com,299,897,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,Catchit.com,306,918,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,The Bailey’s Hotel London,4,4.4,2805,202,Qantas Hotels,326,977,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,klook,280,840,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,Super.com,302,906,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,KAYAK.com,309,926,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,Traveluro,309,928,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,momondo.com,309,926,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,trivago DEALS,312,935,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,Stayforlong.com,313,938,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,Billabook.com,315,945,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,Long Stay Discounts,322,966,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,Expedia.com,346,1039,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,Hotels.com,346,1039,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,Priceline,346,1037,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,Agoda,346,1037,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,Travelocity.com,346,1039,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,Skyscanner,346,1038,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,Orbitz.com,346,1039,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,CheapTickets.com,346,1039,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,Tripadvisor.com,347,1042,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,HomeToGo,347,1042,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,BusinessHotels.com,347,1042,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,"The Standard, London",348,1045,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,Evendo,348,1045,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,Trip.com,351,1052,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,ZenHotels.com,357,1072,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,eDreams,357,1072,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,Booking.com,377,1132,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,Qantas Hotels,404,1211,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,hutchgo (Hutchison Travel Limited),851,2552,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+London,"The Standard, London",5,4.3,1675,280,Clicktrip.com,975,2926,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,Super.com,207,620,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,Vio.com,215,645,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,goseek.com,215,645,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,dealbase.com,230,691,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,Billabook.com,241,722,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,Stayforlong.com,242,725,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,Long Stay Discounts,245,736,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,Hyatt Regency Paris Étoile,247,741,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,Booking.com,247,740,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,Expedia.com,247,741,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,Tripadvisor.com,247,741,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,Hotels.com,247,741,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,Priceline,247,741,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,Agoda,247,740,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,Skyscanner,247,741,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,Travelocity.com,247,741,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,Orbitz.com,247,741,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,CheapTickets.com,247,741,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,eDreams,251,752,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,BusinessHotels.com,253,760,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,HomeToGo,264,792,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,TravelUp,266,798,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,Luxury Escapes,270,809,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,Trip.com,272,815,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,Reserving,272,816,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,Traveluro,276,828,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,trivago DEALS,279,837,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,KAYAK.com,282,845,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,Hotelscombined.com,282,845,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hyatt Regency Paris Étoile,4,4.4,6475,207,momondo.com,282,845,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,Booking.com,203,610,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,Agoda,203,610,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,Priceline,203,610,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,Expedia.com,204,611,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,Hotels.com,204,611,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,Trip.com,204,611,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,Travelocity.com,204,611,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,Skyscanner,204,611,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,Orbitz.com,204,611,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,CheapTickets.com,204,611,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,KAYAK.com,217,651,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,Hotelscombined.com,217,651,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,momondo.com,217,651,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,HomeToGo,222,667,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,Catchit.com,222,667,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,TravelUp,223,668,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,Closest Hotel,223,668,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,Vio.com,223,668,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,BusinessHotels.com,223,668,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,goseek.com,223,668,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,Etrip.net,223,668,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,Courtyard by Marriott Paris Gare de Lyon,224,671,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,Reserving,224,671,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,Traveluro,226,679,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,Qantas Hotels,243,730,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,Bluepillow.com,243,729,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Courtyard by Marriott Paris Gare de Lyon,4,4.4,1744,203,Hotel prive,351,1054,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Best Western Hôtel Rives de Paris La Défense,3,3.9,434,84,Trip.com,84,253,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Best Western Hôtel Rives de Paris La Défense,3,3.9,434,84,Vio.com,86,259,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Best Western Hôtel Rives de Paris La Défense,3,3.9,434,84,Etrip.net,86,259,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Best Western Hôtel Rives de Paris La Défense,3,3.9,434,84,Booking.com,93,280,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Best Western Hôtel Rives de Paris La Défense,3,3.9,434,84,Expedia.com,93,280,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Best Western Hôtel Rives de Paris La Défense,3,3.9,434,84,Hotels.com,93,280,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Best Western Hôtel Rives de Paris La Défense,3,3.9,434,84,Priceline,93,280,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Best Western Hôtel Rives de Paris La Défense,3,3.9,434,84,Travelocity.com,93,280,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Best Western Hôtel Rives de Paris La Défense,3,3.9,434,84,Orbitz.com,93,280,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Best Western Hôtel Rives de Paris La Défense,3,3.9,434,84,CheapTickets.com,93,280,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Best Western Hôtel Rives de Paris La Défense,3,3.9,434,84,Best Western Hôtel Rives de Paris La Défense,93,280,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Best Western Hôtel Rives de Paris La Défense,3,3.9,434,84,eDreams,95,284,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Best Western Hôtel Rives de Paris La Défense,3,3.9,434,84,Reserving,103,308,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Best Western Hôtel Rives de Paris La Défense,3,3.9,434,84,Agoda,104,312,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Best Western Hôtel Rives de Paris La Défense,3,3.9,434,84,HomeToGo,104,312,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Best Western Hôtel Rives de Paris La Défense,3,3.9,434,84,Evendo,107,322,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Best Western Hôtel Rives de Paris La Défense,3,3.9,434,84,KAYAK.com,111,333,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Best Western Hôtel Rives de Paris La Défense,3,3.9,434,84,Hotelscombined.com,111,333,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Best Western Hôtel Rives de Paris La Défense,3,3.9,434,84,momondo.com,111,333,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Best Western Hôtel Rives de Paris La Défense,3,3.9,434,84,Stayforlong.com,128,384,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,La Maison Favart,4,4.7,574,282,Super.com,282,846,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,La Maison Favart,4,4.7,574,282,Evendo,316,949,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,La Maison Favart,4,4.7,574,282,Luxury Escapes,328,985,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,La Maison Favart,4,4.7,574,282,Expedia.com,329,988,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,La Maison Favart,4,4.7,574,282,Hotels.com,329,988,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,La Maison Favart,4,4.7,574,282,Travelocity.com,329,988,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,La Maison Favart,4,4.7,574,282,Orbitz.com,329,988,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,La Maison Favart,4,4.7,574,282,CheapTickets.com,329,988,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,La Maison Favart,4,4.7,574,282,eDreams,335,1006,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,La Maison Favart,4,4.7,574,282,Qantas Hotels,382,1145,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,La Maison Favart,4,4.7,574,282,Booking.com,401,1203,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,La Maison Favart,4,4.7,574,282,Priceline,401,1203,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,La Maison Favart,4,4.7,574,282,klook,519,1558,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,La Maison Favart,4,4.7,574,282,Clicktrip.com,651,1952,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,goseek.com,331,992,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,klook,337,1011,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,Vio.com,339,1018,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,Etrip.net,339,1018,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,Evendo,353,1059,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,Kiwi.com,356,1068,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,Super.com,361,1082,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,Stayforlong.com,368,1104,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,Hôtel d'Orsay,369,1106,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,Booking.com,369,1106,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,Expedia.com,369,1106,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,Hotels.com,369,1106,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,Priceline,369,1106,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,KAYAK.com,369,1107,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,Agoda,369,1106,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,Travelocity.com,369,1106,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,BusinessHotels.com,369,1107,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,Orbitz.com,369,1106,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,Hotelscombined.com,369,1107,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,CheapTickets.com,369,1106,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,momondo.com,369,1107,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,Trip.com,375,1126,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,Clicktrip.com,375,1125,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,eDreams,375,1126,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel d'Orsay,4,4.8,878,331,Catchit.com,388,1163,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Glint Paris,,4.5,3294,80,Booking.com,80,239,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Glint Paris,,4.5,3294,80,Hostelworld,87,262,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Glint Paris,,4.5,3294,80,Hotels.com,125,374,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Glint Paris,,4.5,3294,80,Glint Paris,130,391,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Glint Paris,,4.5,3294,80,Expedia.com,131,394,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Glint Paris,,4.5,3294,80,Travelocity.com,131,394,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Glint Paris,,4.5,3294,80,Orbitz.com,131,394,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Glint Paris,,4.5,3294,80,CheapTickets.com,131,394,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Glint Paris,,4.5,3294,80,Vio.com,136,407,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Glint Paris,,4.5,3294,80,goseek.com,136,407,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Glint Paris,,4.5,3294,80,Etrip.net,136,407,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Glint Paris,,4.5,3294,80,Agoda,143,428,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Glint Paris,,4.5,3294,80,Trip.com,143,428,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Glint Paris,,4.5,3294,80,TravelUp,145,434,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Glint Paris,,4.5,3294,80,Qantas Hotels,150,451,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,Stayforlong.com,215,646,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,Clicktrip.com,215,646,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,Crowne Plaza Paris - Republique by IHG,219,657,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,Booking.com,223,670,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,Expedia.com,223,670,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,Hotels.com,223,670,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,Priceline,223,670,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,Trip.com,223,670,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,Travelocity.com,223,670,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,Wego,223,670,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,Orbitz.com,223,670,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,CheapTickets.com,223,670,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,Billabook.com,225,675,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,EaseMyTrip.com,227,681,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,eDreams,227,682,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,Pilot,230,690,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,TravelUp,238,715,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,Closest Hotel,242,727,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,Super.com,246,738,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,Long Stay Discounts,247,741,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,Catchit.com,260,781,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,Agoda,262,786,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,Qantas Hotels,270,809,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,KAYAK.com,280,840,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,Hotelscombined.com,280,840,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,Tripening Hotels,301,904,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Crowne Plaza Paris - Republique by IHG,4,4.1,2997,187,Hotel prive,304,913,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,The People Belleville,,4.3,2334,74,The People Belleville,74,221,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,The People Belleville,,4.3,2334,74,goseek.com,81,243,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,The People Belleville,,4.3,2334,74,Etrip.net,81,243,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,The People Belleville,,4.3,2334,74,Booking.com,83,248,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,The People Belleville,,4.3,2334,74,Bluepillow.com,95,285,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,The People Belleville,,4.3,2334,74,Hostelworld,96,287,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,The People Belleville,,4.3,2334,74,klook,171,514,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,The People Belleville,,4.3,2334,74,Super.com,179,536,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,The People Belleville,,4.3,2334,74,Clicktrip.com,186,558,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,The People Belleville,,4.3,2334,74,Expedia.com,188,564,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,The People Belleville,,4.3,2334,74,Hotels.com,188,564,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,The People Belleville,,4.3,2334,74,Trip.com,188,564,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,The People Belleville,,4.3,2334,74,Travelocity.com,188,564,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,The People Belleville,,4.3,2334,74,Orbitz.com,188,564,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,The People Belleville,,4.3,2334,74,CheapTickets.com,188,564,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,The People Belleville,,4.3,2334,74,eDreams,191,574,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,The People Belleville,,4.3,2334,74,Closest Hotel,194,581,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,The People Belleville,,4.3,2334,74,TravelUp,194,581,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,The People Belleville,,4.3,2334,74,Kiwi.com,194,581,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,Vio.com,692,2075,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,goseek.com,692,2075,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,Expedia.com,729,2187,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,Hotels.com,729,2187,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,Travelocity.com,729,2187,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,ZenHotels.com,729,2187,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,Orbitz.com,729,2187,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,CheapTickets.com,729,2187,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,eDreams,742,2226,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,Clicktrip.com,747,2242,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,EaseMyTrip.com,755,2264,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,Trip.com,757,2271,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,Agoda,762,2287,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,Catchit.com,770,2309,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,Booking.com,826,2478,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,Priceline,826,2478,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,Wego,826,2478,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,KAYAK.com,827,2482,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,momondo.com,827,2482,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,Michelin Guide Hotels,844,2532,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,Qantas Hotels,845,2536,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,Bluepillow.com,861,2584,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,Super.com,880,2640,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Château Voltaire,5,4.6,194,692,Reserving,909,2726,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,Super.com,567,1701,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,klook,591,1773,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,Clicktrip.com,606,1818,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,Kiwi.com,625,1875,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,Bookhotel.direct,657,1971,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,Stayforlong.com,665,1996,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,Michelin Guide Hotels,678,2033,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,Traveluro,684,2052,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,Billabook.com,690,2069,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,trivago DEALS,691,2074,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,BusinessHotels.com,732,2196,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,Long Stay Discounts,736,2209,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,ZenHotels.com,742,2227,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,Agoda,746,2238,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,Hotels.com,765,2294,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,Prestigia.com,778,2335,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,Catchit.com,791,2372,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,Luxury Escapes,802,2406,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,Booking.com,849,2548,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,Priceline,849,2548,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,Evendo,849,2547,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,Trip.com,850,2549,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,eDreams,867,2600,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,Qantas Hotels,869,2606,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Paris,Hôtel Madame Rêve,5,4.6,741,567,Reserving,914,2743,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,KAYAK.com,119,358,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,Hotelscombined.com,119,358,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,Priceline,129,387,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,müv AI,129,387,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,Traveluro,132,396,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,trivago DEALS,161,482,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,Tripening Hotels,161,482,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,Fairfield by Marriott Inn & Suites New York Staten Island,172,517,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,Expedia.com,172,515,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,Booking.com,172,515,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,Hotels.com,172,515,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,Vio.com,172,515,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,Travelocity.com,172,515,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,Reserving,172,515,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,Wego,172,515,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,Orbitz.com,172,515,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,Amimir.com,172,515,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,Luxury Escapes,172,515,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,goseek.com,172,515,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,eDreams,172,515,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,Etrip.net,172,515,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,CheapTickets.com,172,515,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,Trip.com,175,524,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Fairfield by Marriott Inn & Suites New York Staten Island,3,3.8,658,119,Qantas Hotels,201,602,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,31 Street Broadway Hotel,3,2.6,446,70,Vio.com,70,209,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,31 Street Broadway Hotel,3,2.6,446,70,Closest Hotel,70,209,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,31 Street Broadway Hotel,3,2.6,446,70,goseek.com,70,209,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,31 Street Broadway Hotel,3,2.6,446,70,Etrip.net,70,209,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,31 Street Broadway Hotel,3,2.6,446,70,Clicktrip.com,105,315,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,31 Street Broadway Hotel,3,2.6,446,70,Reserving,208,624,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,31 Street Broadway Hotel,3,2.6,446,70,Hotels.com,221,663,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,31 Street Broadway Hotel,3,2.6,446,70,Expedia.com,222,665,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,31 Street Broadway Hotel,3,2.6,446,70,Travelocity.com,222,665,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,31 Street Broadway Hotel,3,2.6,446,70,ZenHotels.com,222,665,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,31 Street Broadway Hotel,3,2.6,446,70,Orbitz.com,222,665,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,31 Street Broadway Hotel,3,2.6,446,70,eDreams,222,665,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,31 Street Broadway Hotel,3,2.6,446,70,CheapTickets.com,222,665,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,31 Street Broadway Hotel,3,2.6,446,70,Trip.com,245,734,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,31 Street Broadway Hotel,3,2.6,446,70,Qantas Hotels,271,812,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,Traveluro,324,971,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,KAYAK.com,325,975,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,Hotelscombined.com,325,975,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,momondo.com,325,975,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,trivago DEALS,326,979,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,Super.com,336,1009,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,Hotels In America,339,1017,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,goseek.com,340,1020,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,Stayforlong.com,342,1027,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,Long Stay Discounts,345,1036,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,Reserving,359,1078,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,Billabook.com,362,1085,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,Best Hotel Deals,369,1107,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,Tripadvisor.com,376,1128,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,Hyatt Grand Central New York,377,1131,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,Booking.com,377,1131,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,Expedia.com,377,1131,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,Hotels.com,377,1131,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,Priceline,377,1131,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,Agoda,377,1131,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,Skyscanner,377,1131,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,Trip.com,377,1131,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,Travelocity.com,377,1131,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,Orbitz.com,377,1131,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,Amimir.com,377,1131,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,eDreams,377,1131,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,CheapTickets.com,377,1131,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,klook,383,1149,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,Closest Hotel,383,1149,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hyatt Grand Central New York,3,3.9,8735,324,TravelUp,383,1149,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,trivago DEALS,119,356,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,Traveluro,123,369,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,KAYAK.com,136,408,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,Hotelscombined.com,136,408,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,momondo.com,136,408,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,Expedia.com,144,433,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,Hotels.com,144,433,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,Vio.com,144,432,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,Travelocity.com,144,433,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,Orbitz.com,144,433,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,Etrip.net,144,432,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,CheapTickets.com,144,433,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,Priceline,146,439,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,Agoda,146,439,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,Trip.com,146,439,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,Hilton Garden Inn Ridgefield Park,147,440,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,Booking.com,147,440,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,Pilot,147,442,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,Stayforlong.com,149,447,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,Best Hotel Deals,159,476,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,Tripening Hotels,178,534,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,Super.com,186,559,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Hilton Garden Inn Ridgefield Park,3,4,1642,119,Hotel prive,194,583,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,Traveluro,314,943,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,Super.com,315,945,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,trivago DEALS,317,951,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,Kiwi.com,327,980,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,Hotels In America,328,984,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,Long Stay Discounts,334,1001,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,Stayforlong.com,338,1014,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,Billabook.com,340,1021,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,TravelUp,347,1040,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,Clicktrip.com,378,1135,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,Margaritaville Resort Times Square,407,1220,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,Booking.com,407,1220,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,Expedia.com,407,1220,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,Hotels.com,407,1220,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,Travelocity.com,407,1220,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,Orbitz.com,407,1220,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,eDreams,407,1220,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,CheapTickets.com,407,1220,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,klook,410,1229,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,Closest Hotel,414,1242,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,KAYAK.com,415,1246,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,momondo.com,415,1246,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,Hotel prive,436,1309,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,Tripening Hotels,462,1386,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,Priceline,470,1411,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,Qantas Hotels,471,1413,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,groupon.com,543,1630,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Margaritaville Resort Times Square,4,4.3,3309,314,Evendo,575,1725,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,Super.com,115,344,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,Vio.com,117,352,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,goseek.com,117,352,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,Etrip.net,117,352,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,Hotels In America,121,364,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,Long Stay Discounts,124,371,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,Agoda,126,378,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,Luxury Escapes,133,398,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,Traveluro,138,413,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,trivago DEALS,139,416,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,Expedia.com,147,442,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,Hotels.com,147,442,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,Travelocity.com,147,442,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,Skyscanner,147,441,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,Orbitz.com,147,442,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,TravelUp,148,443,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,eDreams,153,460,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,BusinessHotels.com,156,468,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,Robert Treat Hotel,160,480,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,Booking.com,160,480,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,Priceline,160,480,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,KAYAK.com,160,480,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,Hotelscombined.com,160,480,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,Qantas Hotels,169,507,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,Tripening Hotels,195,585,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Robert Treat Hotel,3,3.6,3130,115,Hotel prive,241,723,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,trivago DEALS,143,430,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,Best Hotel Deals,153,460,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,Stayforlong.com,158,474,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,Evendo,159,476,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,KAYAK.com,199,596,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,Hotelscombined.com,199,596,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,momondo.com,199,596,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,Booking.com,250,750,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,Expedia.com,250,750,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,Hotels.com,250,750,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,Priceline,250,750,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,Travelocity.com,250,750,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,Vio.com,250,750,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,Orbitz.com,250,750,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,Luxury Escapes,250,750,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,BusinessHotels.com,250,750,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,eDreams,250,750,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,CheapTickets.com,250,750,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,goseek.com,250,750,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,Etrip.net,250,750,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,Courtyard by Marriott New York Queens/Fresh Meadows,251,753,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,Super.com,251,752,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,Long Stay Discounts,251,752,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,Hotels In America,251,752,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,Tripening Hotels,293,880,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,Courtyard by Marriott New York Queens/Fresh Meadows,3,4,732,143,Hotel prive,349,1048,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,Billabook.com,111,334,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,Pilot,137,412,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,Traveluro,162,485,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,trivago DEALS,163,490,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,KAYAK.com,174,522,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,Hotelscombined.com,174,522,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,DoubleTree by Hilton Hotel Newark Airport,182,546,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,Booking.com,182,546,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,Priceline,182,546,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,Trip.com,182,546,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,BusinessHotels.com,182,546,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,Closest Hotel,182,546,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,Vio.com,182,546,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,TravelUp,182,546,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,dealbase.com,182,546,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,goseek.com,182,546,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,müv AI,182,546,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,Expedia.com,185,555,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,Hotels.com,185,555,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,Agoda,185,555,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,Travelocity.com,185,555,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,Orbitz.com,185,555,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,CheapTickets.com,185,555,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,Luxury Escapes,188,565,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,Hotel prive,196,589,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,Clicktrip.com,213,639,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,Tripening Hotels,236,709,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Newark Airport,4,3.6,5987,111,BuyReservations.com Airport Hotels,240,720,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,Pilot,156,468,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,Traveluro,161,483,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,trivago DEALS,163,488,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,KAYAK.com,166,497,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,Hotelscombined.com,166,497,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,momondo.com,166,497,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,179,537,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,Expedia.com,179,537,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,Booking.com,179,537,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,Tripadvisor.com,179,537,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,Priceline,179,537,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,Hotels.com,179,537,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,Agoda,179,537,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,Trip.com,179,536,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,Travelocity.com,179,537,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,Closest Hotel,179,537,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,TravelUp,179,537,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,Vio.com,179,536,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,BusinessHotels.com,179,537,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,Orbitz.com,179,537,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,goseek.com,179,536,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,Etrip.net,179,536,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,CheapTickets.com,179,537,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,Luxury Escapes,182,546,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,eDreams,182,545,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,Super.com,192,576,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,Long Stay Discounts,192,576,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,Hotels In America,192,576,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,Qantas Hotels,205,615,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+New York,DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge,4,3.7,2582,120,Billabook.com,205,614,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,Vio.com,217,652,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,goseek.com,217,652,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,Etrip.net,217,652,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,NH Collection Barcelona Gran Hotel Calderón,218,654,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,Traveluro,223,669,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,trivago DEALS,225,675,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,Priceline,233,699,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,KAYAK.com,235,705,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,Hotelscombined.com,235,705,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,momondo.com,235,705,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,Super.com,250,751,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,klook,250,749,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,Stayforlong.com,251,754,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,Booking.com,260,780,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,Expedia.com,260,781,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,Agoda,260,780,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,Trip.com,260,781,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,Hotels.com,260,781,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,Travelocity.com,260,781,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,Orbitz.com,260,781,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,CheapTickets.com,260,781,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,ZenHotels.com,264,793,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,eDreams,264,793,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,Reserving,267,802,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,Clicktrip.com,273,818,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,Billabook.com,275,825,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,TravelUp,277,831,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,CHECK24.es,290,869,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,HomeToGo,290,869,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel NH Collection Barcelona Gran Hotel Calderón,5,4.5,4707,217,BusinessHotels.com,294,881,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Vio.com,235,706,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,goseek.com,235,706,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Etrip.net,235,706,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Super.com,236,708,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,trivago DEALS,237,710,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Kiwi.com,243,728,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Evendo,254,762,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Luxury Escapes,264,792,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Long Stay Discounts,265,796,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Stayforlong.com,268,804,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Billabook.com,279,837,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,TravelUp,285,854,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,KAYAK.com,286,858,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Agoda,288,865,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Booking.com,289,866,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Expedia.com,289,866,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Trip.com,289,866,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Hotels.com,289,866,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Priceline,289,866,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Travelocity.com,289,866,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Orbitz.com,289,866,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,CheapTickets.com,289,866,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,eDreams,295,884,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,CHECK24.es,309,928,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Clicktrip.com,309,928,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Closest Hotel,310,929,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Catchit.com,310,930,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Reserving,318,953,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Qantas Hotels,339,1017,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel 1898,4,4.6,3511,235,Hotel prive,362,1085,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,Radissonhotels.com,198,595,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,Super.com,210,630,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,Booking.com,233,700,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,Expedia.com,233,700,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,Tripadvisor.com,233,700,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,Hotels.com,233,700,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,Trip.com,233,700,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,Agoda,233,700,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,Priceline,233,700,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,Travelocity.com,233,700,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,Orbitz.com,233,700,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,CheapTickets.com,233,700,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,eDreams,237,711,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,KAYAK.com,249,747,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,momondo.com,249,747,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,HomeToGo,252,757,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,CHECK24.es,254,762,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,TravelUp,254,762,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,Catchit.com,254,762,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,Reserving,257,770,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,Luxury Escapes,258,775,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,Bluepillow.com,277,832,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,Qantas Hotels,278,833,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,Tripening Hotels,291,874,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,Evendo,759,2276,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",4,4.5,1811,198,Clicktrip.com,796,2388,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,Vio.com,105,316,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,Evendo,107,322,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,Booking.com,116,348,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,Barcelo.com,118,353,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,Super.com,120,359,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,Stayforlong.com,129,387,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,Traveluro,130,391,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,trivago DEALS,131,394,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,Expedia.com,131,392,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,Trip.com,131,392,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,Hotels.com,131,392,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,Priceline,131,392,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,Travelocity.com,131,392,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,Orbitz.com,131,392,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,CheapTickets.com,131,392,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,KAYAK.com,133,399,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,Hotelscombined.com,133,399,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,eDreams,133,399,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,momondo.com,133,399,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,Billabook.com,134,402,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,Reserving,144,431,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,CHECK24.es,151,454,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,Clicktrip.com,151,454,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,TravelUp,152,455,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,lastminute.com,164,493,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,Wego,164,493,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Occidental Atenea Mar,4,4.3,3036,105,Tripening Hotels,169,506,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,Vio.com,119,358,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,goseek.com,119,358,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,Etrip.net,119,358,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,Priceline,121,364,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,dealbase.com,122,365,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,Kiwi.com,125,374,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,Prestigia.com,127,382,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,SB Glow,128,384,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,KAYAK.com,131,394,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,Hotelscombined.com,131,394,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,momondo.com,131,394,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,Booking.com,134,401,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,Expedia.com,135,405,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,Agoda,135,404,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,Hotels.com,135,405,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,Travelocity.com,135,405,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,BusinessHotels.com,135,405,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,Orbitz.com,135,405,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,CheapTickets.com,135,405,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,Super.com,138,415,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,Trip.com,138,413,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,eDreams,138,413,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,Traveluro,147,440,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,Reserving,148,445,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,Evendo,151,453,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,Stayforlong.com,152,455,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,HomeToGo,154,461,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,CHECK24.es,156,467,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,Closest Hotel,156,467,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Hotel SB Glow,4,4,2870,119,TravelUp,156,467,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,KAYAK.com,73,218,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,Hotelscombined.com,73,218,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,momondo.com,73,218,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,klook,73,220,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,Priceline,74,222,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,EaseMyTrip.com,75,225,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,Stayforlong.com,79,238,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,Agoda,80,240,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,Reservation Day,80,239,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,hutchgo (Hutchison Travel Limited),86,257,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,Trip.com,90,270,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,Prestigia.com,94,283,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,AsiaYo,97,291,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,Kiwi.com,97,290,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,TravelUp,102,307,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,Closest Hotel,102,307,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,müv AI,102,307,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,Evendo,106,318,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,Hotels.com,107,321,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,Expedia.com,109,326,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,Travelocity.com,109,326,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,Orbitz.com,109,326,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,Pilot,109,327,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,eDreams,109,326,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,CheapTickets.com,109,326,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,Qantas Hotels,122,366,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,Wego,125,375,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,Akara Bangkok,146,439,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,Reserving,155,466,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Akara Bangkok,5,4.4,1760,73,Traveluro,183,550,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,Vio.com,220,661,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,goseek.com,220,661,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,Etrip.net,220,661,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,Evendo,236,708,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,Super.com,255,766,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,Long Stay Discounts,264,793,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,klook,272,817,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,Stayforlong.com,274,823,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,Clicktrip.com,277,831,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,KAYAK.com,277,832,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,Hotelscombined.com,277,832,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,BusinessHotels.com,283,850,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,Billabook.com,283,848,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,Nobu Barcelona,285,855,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,Booking.com,285,855,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,Expedia.com,285,855,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,TravelUp,285,854,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,Hotels.com,285,855,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,Michelin Guide Hotels,285,855,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,Priceline,285,855,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,Travelocity.com,285,855,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,Orbitz.com,285,855,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,CheapTickets.com,285,855,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,Luxury Escapes,286,858,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,Traveluro,287,860,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,trivago DEALS,289,866,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,Trip.com,292,877,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,eDreams,292,877,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,Catchit.com,303,908,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Nobu Hotel Barcelona,5,4.4,2389,220,CHECK24.es,315,944,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,Traveluro,73,218,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,Vio.com,73,220,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,Hotelscombined.com,73,220,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,goseek.com,73,220,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,dealbase.com,73,220,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,Etrip.net,73,220,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,trivago DEALS,74,221,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,Priceline,76,227,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,Reservation Day,80,240,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,Kiwi.com,86,257,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,Evendo,88,265,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,Centara Grand at Central Plaza Ladprao Bangkok,94,281,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,Agoda,95,285,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,TravelUp,96,289,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,Trip.com,98,295,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,Booking.com,99,297,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,Expedia.com,107,321,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,Hotels.com,107,321,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,Travelocity.com,107,321,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,Orbitz.com,107,321,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,eDreams,107,321,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,CheapTickets.com,107,321,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,Tripening Hotels,109,328,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,Qantas Hotels,115,344,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,5,4.5,7026,73,Hotel prive,125,375,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Casa Gràcia,4,3.9,3844,76,Booking.com,76,229,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Casa Gràcia,4,3.9,3844,76,Hostelworld,90,270,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Casa Gràcia,4,3.9,3844,76,goseek.com,90,270,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Casa Gràcia,4,3.9,3844,76,Expedia.com,112,337,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Casa Gràcia,4,3.9,3844,76,Travelocity.com,112,337,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Casa Gràcia,4,3.9,3844,76,Kiwi.com,114,341,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Casa Gràcia,4,3.9,3844,76,Hotels.com,120,359,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Casa Gràcia,4,3.9,3844,76,eDreams,124,372,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Casa Gràcia,4,3.9,3844,76,trivago DEALS,131,394,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Casa Gràcia,4,3.9,3844,76,Reserving,142,427,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Casa Gràcia,4,3.9,3844,76,Trip.com,143,430,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Casa Gràcia,4,3.9,3844,76,Super.com,145,436,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Casa Gràcia,4,3.9,3844,76,Traveluro,146,438,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Casa Gràcia,4,3.9,3844,76,Stayforlong.com,177,532,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Casa Gràcia,4,3.9,3844,76,Luxury Escapes,185,556,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Casa Gràcia,4,3.9,3844,76,Catchit.com,189,568,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Casa Gràcia,4,3.9,3844,76,Qantas Hotels,197,591,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,The One Barcelona,285,856,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,Expedia.com,384,1153,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,Priceline,384,1152,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,Hotels.com,384,1153,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,Trip.com,384,1153,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,Travelocity.com,384,1153,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,Orbitz.com,384,1153,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,CheapTickets.com,384,1153,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,eDreams,391,1173,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,KAYAK.com,397,1191,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,Evendo,397,1192,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,Hotelscombined.com,397,1191,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,momondo.com,397,1191,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,Catchit.com,405,1214,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,HomeToGo,410,1231,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,CHECK24.es,414,1242,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,TravelUp,414,1242,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,Booking.com,415,1245,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,Luxury Escapes,421,1262,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,Reserving,423,1268,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,lastminute.com,455,1364,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,Clicktrip.com,457,1370,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,Tripening Hotels,499,1496,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,Tablet Hotels,502,1507,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,Super.com,1549,4646,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,The One Barcelona,5,4.6,1270,285,Billabook.com,1797,5392,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,Booking.com,173,519,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,Tiket.com,186,559,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,TravelUp,191,574,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,Closest Hotel,191,574,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,EaseMyTrip.com,191,574,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,ZenHotels.com,191,574,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,Luxury Escapes,191,574,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,müv AI,191,574,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,Anantara.com,193,578,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,Reservation Day,199,596,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,Traveluro,202,605,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,Vio.com,203,608,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,goseek.com,203,608,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,Etrip.net,203,608,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,dealbase.com,203,608,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,trivago DEALS,204,611,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,Stayforlong.com,206,617,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,Kiwi.com,209,627,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,Expedia.com,211,632,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,Hotels.com,211,632,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,Travelocity.com,211,632,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,Orbitz.com,211,632,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,eDreams,211,632,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,CheapTickets.com,211,632,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,Agoda,212,635,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,Tripadvisor.com,212,636,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,KAYAK.com,212,636,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,Priceline,212,635,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,Hotelscombined.com,212,636,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Anantara Riverside Bangkok Resort,5,4.6,8828,173,momondo.com,212,636,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,klook,49,146,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,KAYAK.com,50,149,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Hotelscombined.com,50,149,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,momondo.com,50,149,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Priceline,51,154,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Traveluro,51,154,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,trivago DEALS,52,156,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Reservation Day,54,163,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Traveloka.com,54,162,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Tiket.com,56,168,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Booking.com,57,171,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Pilot,57,171,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,hutchgo (Hutchison Travel Limited),59,177,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Stayforlong.com,60,179,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,TravelUp,60,179,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Vio.com,60,179,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,goseek.com,60,179,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Etrip.net,60,179,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Kiwi.com,62,185,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Agoda,63,189,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Amimir.com,64,191,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Closest Hotel,65,195,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Wego,65,195,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Hotels.com,66,198,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Catchit.com,66,199,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Reserving,66,197,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Hotel prive,67,202,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Bluepillow.com,67,202,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Expedia.com,68,203,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,JC Kevin Sathorn Bangkok Hotel,5,4.4,7078,49,Travelocity.com,68,203,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,Vio.com,171,514,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,goseek.com,178,535,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,Kiwi.com,183,548,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,Prestigia.com,186,557,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,Priceline,203,608,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,Booking.com,205,615,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,Agoda,205,615,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,Hotels.com,205,615,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,Evendo,205,614,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,Reserving,208,623,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,KAYAK.com,209,628,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,eDreams,209,626,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,Hotelscombined.com,209,628,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,momondo.com,209,628,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,Stayforlong.com,210,629,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,TravelUp,212,636,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,Expedia.com,215,644,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,Travelocity.com,215,644,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,Orbitz.com,215,644,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,CheapTickets.com,215,644,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,Eurostars Grand Marina,216,648,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,Trip.com,216,648,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,trivago DEALS,217,650,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,Billabook.com,226,679,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,Long Stay Discounts,227,682,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,Luxury Escapes,230,689,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,Clicktrip.com,234,703,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,CHECK24.es,235,704,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,Super.com,237,712,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Eurostars Grand Marina,5,4.2,4507,171,HomeToGo,243,729,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Generator Barcelona,1,4.5,9277,51,Generator Barcelona,51,152,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Generator Barcelona,1,4.5,9277,51,Hostelworld,63,190,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Generator Barcelona,1,4.5,9277,51,goseek.com,63,190,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Generator Barcelona,1,4.5,9277,51,dealbase.com,63,190,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Generator Barcelona,1,4.5,9277,51,Skyscanner,135,406,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Generator Barcelona,1,4.5,9277,51,Hotels.com,136,409,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Generator Barcelona,1,4.5,9277,51,eDreams,138,413,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Generator Barcelona,1,4.5,9277,51,Expedia.com,141,423,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Generator Barcelona,1,4.5,9277,51,Travelocity.com,141,423,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Generator Barcelona,1,4.5,9277,51,Orbitz.com,141,423,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Generator Barcelona,1,4.5,9277,51,CheapTickets.com,141,423,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Generator Barcelona,1,4.5,9277,51,ZenHotels.com,147,442,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Generator Barcelona,1,4.5,9277,51,Super.com,153,459,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Generator Barcelona,1,4.5,9277,51,Trip.com,157,472,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Generator Barcelona,1,4.5,9277,51,Reserving,158,474,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Generator Barcelona,1,4.5,9277,51,Closest Hotel,163,489,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Generator Barcelona,1,4.5,9277,51,klook,166,497,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Barcelona,Generator Barcelona,1,4.5,9277,51,Tripening Hotels,211,634,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,Reservation Day,89,268,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,klook,90,269,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,Stayforlong.co.uk,96,287,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,goseek.com,96,288,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,trivago DEALS,98,295,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,Bookhotel.direct,99,296,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,dealbase.com,101,302,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,Tiket.com,103,309,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,Booking.com,104,312,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,Pilot,106,318,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,Prestigia.com,108,324,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,Agoda,109,328,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,KAYAK.co.uk,109,328,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,Priceline,109,328,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,Expedia.co.uk,110,330,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,Hotels.com,110,330,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,Closest Hotel,110,331,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,Qantas Hotels,110,331,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,Reserving,110,331,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,eDreams,110,330,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,Evendo,112,335,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,Level.Travel,113,338,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,Trip.com,114,341,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,Traveluro,114,343,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,Hotel prive,115,344,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,Etrip.net,115,345,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Lancaster Bangkok,5,4.6,2305,76,Tripening Hotels,181,542,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,klook,89,268,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,Traveluro,93,279,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,trivago DEALS,94,282,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,Traveloka.com,94,282,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,Vio.com,97,290,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,dealbase.com,97,290,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,goseek.com,97,290,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,Etrip.net,97,290,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,hutchgo (Hutchison Travel Limited),102,305,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,KAYAK.com,104,313,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,Hotelscombined.com,104,313,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,momondo.com,104,313,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,Priceline,104,312,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,Evendo,104,311,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,Agoda,106,319,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,Trip.com,107,322,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,Prestigia.com,107,320,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,Bluepillow.com,109,328,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,Luxury Escapes,111,332,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,Tiket.com,112,337,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,TravelUp,112,337,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,Hotels.com,114,342,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,Reservation Day,114,342,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,Kiwi.com,115,345,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,Expedia.com,116,348,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,Travelocity.com,116,348,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,Orbitz.com,116,348,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,eDreams,116,348,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,CheapTickets.com,116,348,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Grande Centre Point Ratchadamri,5,4.5,4966,89,Qantas Hotels,133,399,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,"dusitD2 Samyan, Bangkok",4,4.9,3224,114,Reservation Day,114,341,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,"dusitD2 Samyan, Bangkok",4,4.9,3224,114,Stayforlong.com,118,354,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,"dusitD2 Samyan, Bangkok",4,4.9,3224,114,hutchgo (Hutchison Travel Limited),121,364,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,"dusitD2 Samyan, Bangkok",4,4.9,3224,114,Clicktrip.com,127,380,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,"dusitD2 Samyan, Bangkok",4,4.9,3224,114,"dusitD2 Samyan, Bangkok",129,388,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,"dusitD2 Samyan, Bangkok",4,4.9,3224,114,Tripbtoz,133,400,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,"dusitD2 Samyan, Bangkok",4,4.9,3224,114,Bluepillow.com,137,411,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,"dusitD2 Samyan, Bangkok",4,4.9,3224,114,Agoda,142,426,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,"dusitD2 Samyan, Bangkok",4,4.9,3224,114,Booking.com,143,429,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,"dusitD2 Samyan, Bangkok",4,4.9,3224,114,Priceline,143,429,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,"dusitD2 Samyan, Bangkok",4,4.9,3224,114,Tripening Hotels,153,460,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,klook,377,1132,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,Stayforlong.com,402,1206,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,Vio.com,404,1211,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,dealbase.com,404,1211,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,Reservation Day,409,1226,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,Billabook.com,413,1238,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,Closest Hotel,417,1251,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,Luxury Escapes,417,1251,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,KAYAK.com,422,1265,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,momondo.com,422,1265,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,Long Stay Discounts,423,1269,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,ZenHotels.com,423,1270,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,TravelUp,427,1280,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,Kiwi.com,445,1334,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,Prestigia.com,450,1350,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,Clicktrip.com,455,1366,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,Agoda,458,1375,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,Tripadvisor.com,458,1375,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,Siam Kempinski Hotel Bangkok,458,1375,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,Expedia.com,459,1376,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,Hotels.com,459,1376,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,Travelocity.com,459,1376,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,Orbitz.com,459,1376,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,eDreams,459,1376,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,CheapTickets.com,459,1376,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,Booking.com,461,1384,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,Trip.com,461,1384,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,Bluepillow.com,462,1385,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,Priceline,463,1389,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Siam Kempinski Hotel Bangkok,5,4.7,7079,377,Qantas Hotels,491,1474,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,klook,148,444,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,Vio.com,155,466,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,Hotelscombined.com,155,466,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,dealbase.com,155,466,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,momondo.com,155,466,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,Luxury Escapes,155,466,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,Priceline,158,474,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,Tiket.com,158,473,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,Stayforlong.com,160,479,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,Reservation Day,162,485,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,Clicktrip.com,163,489,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,Carlton Hotel Bangkok Sukhumvit,165,495,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,TravelUp,165,494,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,Booking.com,167,501,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,goseek.com,168,505,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,Traveluro,171,512,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,AsiaYo,171,513,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,Closest Hotel,171,513,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,Evendo,172,515,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,trivago DEALS,173,518,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,Agoda,173,519,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,Bluepillow.com,174,522,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,Kiwi.com,174,521,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,Amimir.com,176,528,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,Catchit.com,187,561,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,Expedia.com,188,564,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,Hotels.com,188,564,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,Travelocity.com,188,564,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,Orbitz.com,188,564,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
+Bangkok,Carlton Hotel Bangkok Sukhumvit,5,4.7,3335,148,CheapTickets.com,188,564,2026-11-12,2026-11-15,3,2,USD,2026-10-17T21:27:08.768Z
