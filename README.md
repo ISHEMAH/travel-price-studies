@@ -57,6 +57,10 @@ A reader asked whether the three small sites that were cheapest on 2 Oct keep th
   - On the 30 hotels shared by 2 and 9 Oct, the full gap fell from 17.8% to 13.4%. On the 20 hotels present on all three dates, it went 18.7%, 13.7%, 13.5%. So the drop after 2 Oct is a price change, not only Google's top 10 rotating.
   - On those 20 hotels, the three picks captured 75%, 88% and 77% of the gap.
   - On the 25 hotels shared by 9 and 17 Oct, the picks captured 70% and 82%. The lower 65% on the full 17 Oct set comes from hotels that weren't in the 9 Oct set.
+- **Pooled, hotel-level bootstrap** (a reader's point, 20 Oct; not part of the pre-registered rule, so the verdict above stands): [`pooled_cluster.py`](pooled_cluster.py) pools 9 and 17 Oct and resamples hotels, not hotel-date rows.
+  - 93 rows, 68 distinct hotels, 25 of them in both pulls. Pooled capture share 70%, 95% CI 58–82% (row bootstrap 57–82%).
+  - Clustering barely changes the interval because no hotel appears more than twice.
+  - Caveat: 17 Oct was pulled on a Saturday at 21:27 UTC; 2 and 9 Oct on Friday mornings. Weekday, time of day and lead time (41, 34, 26 days before check-in) moved together with the hotel list.
 
 Data: [`data/hotels-booking-site-prices-2026-10-02.csv`](data/hotels-booking-site-prices-2026-10-02.csv), one row per hotel × site.
 
