@@ -1,0 +1,9 @@
+     LHR-CDG: £68 on 2027-01-11 (median £68, 8 days)
+     LHR-FRA: £70 on 2027-01-11 (median £70, 8 days)
+DEAL LHR-HND: £478 on 2027-01-12 (median £478, 8 days)
+     LHR-IST: £96 on 2027-01-12 (median £96, 8 days)
+DEAL LHR-JFK: £279 on 2027-01-13 (median £316, 8 days)
+40 searches, SUCCEEDED
+real 37.84
+user 0.30
+sys 0.07

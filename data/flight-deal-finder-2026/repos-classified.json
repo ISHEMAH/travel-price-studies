@@ -1,0 +1,175 @@
+{
+ "Akhil-4407_flight-deals-finder": [
+  "SerpApi"
+ ],
+ "Aquinite_flight-deals-finder": [
+  "SerpApi"
+ ],
+ "Areeburrehman-26_flight-deals-finder": [
+  "Amadeus"
+ ],
+ "Areeburrehman-26_flight-deals-finder-sheety-api": [
+  "Amadeus"
+ ],
+ "FotiosAp_FlightDealFinder": [
+  "SerpApi"
+ ],
+ "GhostByteXd_flight-deal-finder": [
+  "SerpApi"
+ ],
+ "GursajanpreetSingh_Flight-Deal-Finder": [
+  "Amadeus"
+ ],
+ "Karanvir0dh_flight-deal-finder": [
+  "Amadeus",
+  "SerpApi"
+ ],
+ "LauraRincon_Flight-deal-finder": [
+  "No live data (mock, template, empty)"
+ ],
+ "MarcosZambrano_flight-deal-finder-": [
+  "SerpApi"
+ ],
+ "SanketBelkiwar_flight-deal-finder": [
+  "SerpApi"
+ ],
+ "Shaun-xinctex_flight-deal-finder": [
+  "No live data (mock, template, empty)"
+ ],
+ "Shreyash967_flight_Deal_Finder_Club": [
+  "SerpApi"
+ ],
+ "VISHAL108-Mech_Python-Flight-Deal-Finder": [
+  "SerpApi"
+ ],
+ "Yoakshat_milehop": [
+  "Scrapes a site itself"
+ ],
+ "adityadeshpande557-source_Flight-deal-search-": [
+  "SerpApi"
+ ],
+ "alyasyly_Flight_Deal_Finder": [
+  "Scrapes a site itself"
+ ],
+ "anushkapatill27_Flight-Deal-Finder": [
+  "No live data (mock, template, empty)"
+ ],
+ "brandlinker2025_Cheap-Ticket-Finder": [
+  "Duffel",
+  "Scrapes a site itself",
+  "Travelpayouts"
+ ],
+ "chrisperos_Guatemala-trip-flight-deal-finder": [
+  "fast-flights / fli"
+ ],
+ "cteentpa7777_flight-deal-finder": [
+  "Unclear (endpoint in an env var)"
+ ],
+ "devendr-ai_farescout": [
+  "SerpApi",
+  "Travelpayouts",
+  "fast-flights / fli"
+ ],
+ "dibyasarothidibya-lang_Flight-Deal-Finder": [
+  "SerpApi"
+ ],
+ "dukutougou-ship-it_flight-deal-finder": [
+  "SerpApi"
+ ],
+ "erricguo_flight-deal-finder": [
+  "No live data (mock, template, empty)"
+ ],
+ "harsh-thakkar7_flight-deal-finder": [
+  "SerpApi"
+ ],
+ "hugh9848-afk_flight-deal-finder": [
+  "Amadeus",
+  "SerpApi",
+  "Travelpayouts"
+ ],
+ "j0ecarter_flight-deal-finder": [
+  "Unclear (endpoint in an env var)"
+ ],
+ "janaswipeup_emptyleg-finder": [
+  "No live data (mock, template, empty)"
+ ],
+ "jerrysuesue_flight-deal-finder": [
+  "No live data (mock, template, empty)"
+ ],
+ "jones855_flight-deal-finder": [
+  "SerpApi"
+ ],
+ "juweske_hermes-flight-finder": [
+  "fast-flights / fli"
+ ],
+ "kabanastasis_Flight-Deal-Finder": [
+  "SerpApi"
+ ],
+ "kama13a_Flight-Club": [
+  "No live data (mock, template, empty)"
+ ],
+ "malakgamalismaail-hub_flight-deal-finder": [
+  "Scrapes a site itself"
+ ],
+ "matheussari_flight-deal-finder": [
+  "Travelpayouts"
+ ],
+ "mccandch_flight_data_poc": [
+  "SerpApi",
+  "Travelpayouts"
+ ],
+ "meicy321_flight-deal-finder": [
+  "No live data (mock, template, empty)"
+ ],
+ "mhmd-mehrdad_flight-deal-finder": [
+  "SerpApi"
+ ],
+ "misterhellsing00-droid_flightdeal-finder": [
+  "No live data (mock, template, empty)"
+ ],
+ "narenjcs_multiagent_assignment": [
+  "No live data (mock, template, empty)"
+ ],
+ "nstaalkjaer_flight-deals": [
+  "Travelpayouts"
+ ],
+ "riadc916_flight-deal-finder": [
+  "SerpApi"
+ ],
+ "robgwalsh_bertbooker": [
+  "Other: seats.aero (award seats)"
+ ],
+ "rocconazzarelli-arch_Automated-Flight-Deal-Finder": [
+  "Scrapes a site itself"
+ ],
+ "sagar-kc7_Flight-Search-Agent": [
+  "SerpApi"
+ ],
+ "scary321_flight-deal-finder": [
+  "SerpApi"
+ ],
+ "sharanabasava-05_Flight-deals": [
+  "SerpApi"
+ ],
+ "sudoShiba_getaway-alert": [
+  "Kiwi Tequila"
+ ],
+ "sugwon065_flight-v2": [
+  "No live data (mock, template, empty)"
+ ],
+ "syedh-g_Good-Flight-Deals": [
+  "SerpApi"
+ ],
+ "vikas-peddinti_flight-deal-finder": [
+  "Scrapes a site itself"
+ ],
+ "vishnu-kv-2002_python-Flight-Deal-Finder": [
+  "SerpApi"
+ ],
+ "vishnu-kv-2002_python-Flight-Deal-Finder-2": [
+  "SerpApi"
+ ],
+ "waynekuo-dev_flight-deal-finder": [
+  "No live data (mock, template, empty)"
+ ]
+}
